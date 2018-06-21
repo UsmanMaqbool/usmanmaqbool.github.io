@@ -105,13 +105,13 @@ author:
   bio              : "I am a simple person."
   location         : "Clear Water Bay, Hong Kong"
   email            : "usmanmaqbool@outlook.com"
-  uri              :
+  uri              : "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : usmanmaqbool
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : mumbhutta
   foursquare       :
   github           : usmanmaqbool
   gitlab           :
@@ -129,7 +129,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/channel/UCLQDiJdu70ptPHS_ws1Pcfw"
 
 
 # Reading Files
