@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Muhammad Usman Maqbool Bhutta"
 title_separator          : "-"
-name                     : "Muhammad Usman Maqbool Bhutta"
+name                     : "Usman Maqbool Bhutta"
 description              : "Welcome to my personal website"
 url                      : "https://usmanmaqbol.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : UsmanMaqbool/usmanmaqbool.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Bhutta, Muhammad Usman Maqbool"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an simple person."
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
+  bio              : "I am a simple person."
   location         : "Clear Water Bay, Hong Kong"
   email            : "usmanmaqbool@outlook.com"
   uri              :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : usmanmaqbool
   gitlab           :
   google_plus      :
   keybase          :
