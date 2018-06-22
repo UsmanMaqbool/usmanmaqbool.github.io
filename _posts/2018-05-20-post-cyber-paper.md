@@ -1,5 +1,5 @@
 ---
-title:  "Paper has been accepted in IEEE-Cyber 2018"
+title:  "May 2018 &#124; Paper has been accepted in IEEE-Cyber 2018"
 search: true
 categories: 
   - papers 

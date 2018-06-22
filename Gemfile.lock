@@ -108,6 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
+  jemoji
   minimal-mistakes-jekyll!
   rake (~> 10.0)
 
