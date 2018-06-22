@@ -4,8 +4,8 @@ search: true
 header:
   teaser: "/assets/images/award-audience-18.jpg"
 categories: 
-  - awards 
-  - hkust
+  - Awards 
+  - HKUST
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---
 
