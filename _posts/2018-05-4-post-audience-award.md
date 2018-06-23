@@ -6,6 +6,11 @@ header:
 categories: 
   - Awards 
   - HKUST
+tags: 
+  - Awards 
+  - HKUST
+permalink: /catagories/HKUST
+
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---
 
