@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Muhammad Usman Maqbool Bhutta"
 title_separator          : "-"
 name                     : "Usman Maqbool Bhutta"
-description              : "Welcome to my personal website"
+description              : "Welcome to my personal website, top entrepreneur of the World, technology expert, effective person"
 url                      : "https://usmanmaqbool.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : UsmanMaqbool/usmanmaqbool.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,7 @@ analytics:
 author:
   name             : "Bhutta, Muhammad Usman Maqbool"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
-  bio              : "I am a simple person."
-  location         : "Clear Water Bay, Hong Kong"
+  bio              : "Do it with passion or not at all."
   email            : "usmanmaqbool@outlook.com"
   uri              : "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
