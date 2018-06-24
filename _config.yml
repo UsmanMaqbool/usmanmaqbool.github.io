@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Bhutta, Muhammad Usman Maqbool"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
-  bio              : "Do it with passion or not at all."
+  bio              : "Autonomous Vehicles, Flying Cars, Intelligent and Robust Multi-Robotics Applications, Sensor Fusion, Networked Robots, Cloud-Based SLAM."
   email            : "usmanmaqbool@outlook.com"
   uri              : "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
