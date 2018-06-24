@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :musmanmbhutta
+  username               : musmanmaqbool
 facebook:
-  username               :
+  username               : mumbhutta
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,13 +107,13 @@ author:
   location         : "Clear Water Bay, Hong Kong"
   uri              : "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : usmanmaqbool
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : mumbhutta
+  facebook         : 
   foursquare       :
-  github           : usmanmaqbool
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "musmanmbhutta"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
