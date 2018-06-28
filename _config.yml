@@ -168,7 +168,11 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
 # Conversion
 markdown: kramdown
 highlighter: rouge

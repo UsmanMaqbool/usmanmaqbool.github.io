@@ -2,7 +2,7 @@
 title:  "May 2018 &#124; Paper has been accepted in IEEE-Cyber 2018"
 search: true
 categories: 
-  - Conference Paper
+  - conference-paper
   - Publications
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---
