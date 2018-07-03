@@ -8,6 +8,8 @@ categories:
 last_modified_at: 2018-07-2T08:05:34-05:00
 toc: true
 toc_sticky: true
+header:
+  teaser: "/assets/images/ccf-gair/header4.jpg"
 ---
 Global AI and Robotics Conference [[CCF-GAIR 2018](https://gair.leiphone.com/gair/2018yr/en)] was held in :triangular_flag_on_post: JW Marriot, Shenzhen China (06.29-07.01, 2018). What I've observed, please read the sections below;
 ## Computer Vision
