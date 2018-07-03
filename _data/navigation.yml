@@ -4,8 +4,8 @@ main:
     url: https://usmanmaqbool.github.io
   #- title: "Resume"
   #  url: https://drive.google.com/file/d/1o3o-DnzwbcTCY023CPv6wCxIdXeuQEt6/view?usp=sharing
-  - title: "Tutorial"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Tutorial"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
   #  url: https://usmanmaqbool.github.io/usmanmaqbool/about/
   - title: "All Posts"
