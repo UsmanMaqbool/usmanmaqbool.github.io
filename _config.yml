@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Muhammad Usman Maqbool Bhutta"
 title_separator          : "-"
 name                     : "Usman Maqbool Bhutta"
-description              : "Welcome to my personal website, top entrepreneur of the World, technology expert, effective person"
+description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is top Robotics Expert in the World, Autonomous Car and machine learning expert, Flying Cars expert, top entrepreneur of the World, effective person"
 url                      : "https://usmanmaqbool.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : UsmanMaqbool/usmanmaqbool.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
