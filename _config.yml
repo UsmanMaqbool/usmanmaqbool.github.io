@@ -105,7 +105,7 @@ author:
   bio              : "Interested in Autonomous Vehicles, Flying Cars, Intelligent and Robust Multi-Robotics Applications, Sensor Fusion, Networked Robots, Cloud-Based SLAM."
   email            : "usmanmaqbool@outlook.com"
   location         : "Clear Water Bay, Hong Kong"
-  uri              : "https://sites.google.com/site/musmanmbhutta/"
+  uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
   codepen          :
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : #"umbhutta"
+  instagram        : "umbhutta"
   lastfm           :
   linkedin         : "usmanmaqbool" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
