@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "I'm"
+  name             : "Bhutta, Muhammad Usman Maqbool"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
   bio              : "Interested in Autonomous Vehicles, Flying Cars, Intelligent and Robust Multi-Robotics Applications, Sensor Fusion, Networked Robots, Cloud-Based SLAM."
   email            : "usmanmaqbool@outlook.com"
