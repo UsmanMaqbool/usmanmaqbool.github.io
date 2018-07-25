@@ -25,7 +25,7 @@ I've won :trophy: **Best Student Paper Finalist Award** in this conference.
     <figcaption>Award Photo.</figcaption>
 </figure>
 A memorable picture with Prof. [François Chaumette](https://team.inria.fr/rainbow/team/francois-chaumette/) (Rainbow group Inria, Univ Rennes, CNRS, IRISA, Rennes, France), Prof. [Krzysztof Kozlowski](https://wearablerobots.eu/mp-krzysztof-kozlowski/) (Institute of Control and Robotics
-Poznan University of Technology, Poland) and Prof Ming Liu at IEEE-CYBER 2018..
+Poznan University of Technology, Poland) and Prof [Ming Liu](https://ram-lab.com/) at IEEE-CYBER 2018..
 <figure>
     <a href="/assets/images/cyber18/cyber%20(125).jpg"><img src="/assets/images/cyber18/cyber%20(125).jpg"></a>
     <figcaption>Left to Right: Prof. François Chaumette, Prof. Krzysztof Kozlowski, Muhammad Usman Maqbool Bhutta and Prof Ming Liu.</figcaption>
