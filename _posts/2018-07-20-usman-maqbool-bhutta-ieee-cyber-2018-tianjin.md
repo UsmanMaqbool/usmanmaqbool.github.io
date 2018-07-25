@@ -13,7 +13,7 @@ header:
 ---
 The 8th Annual IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems [[IEEE-CYBER 2018](http://www.ieee-cyber.org/2018/)] was held in :triangular_flag_on_post: Hyatt Regency Tianjin East, Tianjin, China (July 19 – July 23, 2018).
 ## Presentation
-I presented my work [PCR-Pro](https://sites.google.com/view/pcr-pro) there.
+I presented my work [PCR-Pro](https://sites.google.com/view/pcr-pro) there. [[Sides link]](/assets/pdf/presentation-cyber.pdf)
 ## Award
 I've won :trophy: **Best Student Paper Finalist Award** in this conference. 
 <figure>
