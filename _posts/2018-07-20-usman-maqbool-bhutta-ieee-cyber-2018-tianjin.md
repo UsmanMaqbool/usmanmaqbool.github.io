@@ -1,6 +1,6 @@
 ---
-title:  "July 2018 &#124; Won Best Student Paper Finalist Award"
-excerpt: "I've presented PCR-Pro at IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems, and won **Best Student Paper Finalist Award**"
+title:  "July 2018 &#124; Won Best Student Paper Finalist Award at IEEE-CYBER 2018"
+excerpt: "I've presented PCR-Pro at IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems 2018, and won **Best Student Paper Finalist Award :)**"
 search: true
 categories: 
   - conference
