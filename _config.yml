@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About me"
+  name             : "I'm"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
   bio              : "Interested in Autonomous Vehicles, Flying Cars, Intelligent and Robust Multi-Robotics Applications, Sensor Fusion, Networked Robots, Cloud-Based SLAM."
   email            : "usmanmaqbool@outlook.com"
