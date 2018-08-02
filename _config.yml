@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "I'm interested in "
+  name             : "About Me"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
-  bio              : "Autonomous Vehicles, Flying Cars, Intelligent and Robust Multi-Robotics Applications, Sensor Fusion, Networked Robots, Cloud-Based SLAM."
+  bio              : "PhD candidate at Robotics and Multi-Perception Lab (ram-lab.com), HKUST, HK.<br> <b> I'm interested in: </b> <br> Autonomous Vehicles, Flying Cars, Multi-Robotics Applications, Deep Learning, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
-  location         : "Clear Water Bay, Hong Kong"
+  location         : "HKUST, Hong Kong"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
