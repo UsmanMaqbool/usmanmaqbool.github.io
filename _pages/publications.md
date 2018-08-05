@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 ## 2018
-> _M Usman Maqbool Bhutta, Ming Liu_, **PCR-Pro - 3D Sparse and Different Scale Point Clouds Registration and Robust Estimation of Information Matrix For Pose Graph SLAM**, IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), July 19-23, 2018, Tianjin, China. :trophy: [**Finalist for Best Student Paper Award**](http://usmanmaqbool.github.io/conference/ieee/usman-maqbool-bhutta-ieee-cyber-2018-tianjin/),[Paper Website](https://sites.google.com/view/pcr-pro), [Video and Abstract](https://usmanmaqbool.github.io/conference-paper/publications/usman-maqbool-bhutta-cyber-paper/).
+> _M Usman Maqbool Bhutta, Ming Liu_, **PCR-Pro - 3D Sparse and Different Scale Point Clouds Registration and Robust Estimation of Information Matrix For Pose Graph SLAM**, IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), July 19-23, 2018, Tianjin, China. :trophy: [**Finalist for Best Student Paper Award**](http://usmanmaqbool.github.io/conference/ieee/usman-maqbool-bhutta-ieee-cyber-2018-tianjin/), [Paper Website](https://sites.google.com/view/pcr-pro), [Video and Abstract](https://usmanmaqbool.github.io/conference-paper/publications/usman-maqbool-bhutta-cyber-paper/).
 
 ## 2015
 > _Zoha Qamar, Bushra Yaseen, and Usman Maqbool_, **Efficient reset design techniques**,Science International, ISSN 1013-5316, vol. 27, no. 2, pp. 1671–1674, 2015.
