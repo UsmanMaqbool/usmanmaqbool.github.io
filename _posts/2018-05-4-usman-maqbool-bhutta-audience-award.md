@@ -10,7 +10,7 @@ categories:
 tags: 
   - Awards 
   - HKUST
-permalink: /catagories/HKUST
+permalink: /awards/usman-maqbool-bhutta-won-audience-award-at-HKUST-HK
 
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---
