@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. 
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
   bio              : "PhD candidate at Robotics and Multi-Perception Lab (<a href='http://www.ram-lab.com' target='blank'>ram-lab.com</a>), HKUST, HK.<br> <b> I'm interested in: </b> <br> Autonomous Vehicles, Flying Cars, Multi-Robotics Applications, Deep Learning, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
   location         : "HKUST, Hong Kong"
