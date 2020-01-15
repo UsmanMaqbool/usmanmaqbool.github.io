@@ -3,4 +3,5 @@ _site
 .jekyll-metadata
 ._config.yml
 leo-README.md
+Gemfile
 Gemfile.lock
