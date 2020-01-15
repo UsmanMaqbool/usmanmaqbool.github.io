@@ -28,6 +28,6 @@ toc_sticky: true
 <br>**Experience:** Teaching Digital Electronics I, Digital Electronics II, Analog Electronics I and related labs.
 Worked as Project Supervisor for Bachelors students.
 
-### FALL 2010 | Quaid-i-Azam University, Islmaabad, Pakistan.
+### FALL 2010 | Quaid-i-Azam University, Islamabad, Pakistan.
 **Post:** Instructor
 <br>**Experience:** Teaching ‘PHP/MySQL Web Applications Development’ (a short course) offered in Department of Electronics, Quaid-i-Azam University, Islamabad, Pakistan
