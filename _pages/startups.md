@@ -11,7 +11,7 @@ author_profile: true
 **Product Demo:** [Available](https://www.youtube.com/watch?v=rXr3BxniEPI) <br> **Website** [www.lisee.io](www.lisee.io) <br> **Status:** Progressing...
 ## Da Location 
 ##### Dynamic real estate managment system for real estate developer.
-**Product Demo:** [Available](http://www.dalocation.com/demo) <br> **Website** www.dalocation.com <br> **Status:** On Pause
+**Product Demo:** [Available](http://www.dalocation.com/demo) <br> **Website** [www.dalocation.com](www.dalocation.com) <br> **Status:** On Pause
 ## 24 Display 
 ##### Provides analytics and solutions related to Pakistan affairs.
 **Product Demo:** Not yet available <br> **Website** [www.24display.com](www.24display.com) <br> **Status:** On Pause 
