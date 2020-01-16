@@ -1,5 +1,5 @@
 ---
-title:  "Dec 2019 &#124; Featured in PEEF, Government of Punjab, Pakistan's Newletter, 2019"
+title:  "Dec 2019 &#124; Featured in PEEF Pakistan Portal's Newletter, 2019"
 excerpt: "Happy to see some glimpses of my ongoing Ph.D. journey at HKUST, on the second page of PEEF Portal's newsletter this year :) Besides inspiration for others, It's another strong motivation for me to continue my hard work for the country. 🇵🇰 <3."
 search: true
 header:
@@ -14,7 +14,7 @@ permalink: /awards/usman-maqbool-bhutta-featured-in-peef-ccms-ssms-newsletter
 
 last_modified_at: 2020-01-16T08:05:34-05:00
 ---
-Happy to see some glimpses of my ongoing Ph.D. journey at HKUST, on the second page of PEEF Portal's newsletter this year :) Besides inspiration for others, It's another strong motivation for me to continue my hard work for the country. 🇵🇰 <3
+Happy to see some glimpses of my ongoing Ph.D. journey at HKUST, on the second page of The Punjab Educational Endowment Fund (PEEF) Portal's newsletter this year :) Besides inspiration for others, It's another strong motivation for me to continue my hard work for the country. 🇵🇰 <3
 
 #MashaALLAH #PEEFScholar #PEEF #phdVibes #PunjabGovernment
 
