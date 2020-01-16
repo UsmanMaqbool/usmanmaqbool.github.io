@@ -27,4 +27,4 @@ Dec 2011 | **Participant**, National Drama Festival Islamabad, PK
 Dec 2010 | **Instuctor of short Course**, PHP Web Development’ at the Department of Electronics, QAU Islamabad, PK
 Apr 2013 | **Completion Award**, Running River Rafting course by Adventure Foundation of Pakistan Mansehra, PK
 Apr 2013 | **Completion Award**, Paragliding course by QAU Adventure Club Islamabad, PK
-Dec 2008 | **Award of Honor**, Finance Secretary of Electronics Student Society (ESS) at QAU Islamabad, PK
+Dec 2008 | [**Award of Honor**](https://usmanmaqbool.github.io/awards/usman-maqbool-bhutta-received-award-of-honour-electronics-department-QAU-Pakistan), Finance Secretary of Electronics Student Society (ESS) at QAU Islamabad, PK
