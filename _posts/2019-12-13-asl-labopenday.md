@@ -4,11 +4,9 @@ excerpt: "More than 500 people visited ASL, RSL Lab at ETH Zurich to observe Rob
 search: true
 header:
   teaser: "/assets/images/2020/openlabday.jpg"
-categories: 
-  - robotics 
 tags: 
-  - asl 
-permalink: /robotics/asl-open-lab-day-19
+  - Influencers Meetup
+permalink: /usman-maqbool-bhutta/asl-open-lab-day-19
 
 last_modified_at: 2019-12-13T08:05:34-05:00
 ---

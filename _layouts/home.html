@@ -9,7 +9,7 @@ layout: archive
 </p> -->
 
 <h2 class="archive__subtitle" style=" color: crimson; font-size: 22px;" >{{ site.data.ui-text[site.locale].recent_posts | default: "News Feed" }}</h2>
-
+{% include tag-menu.html %}
 {% for post in paginator.posts %}
   {% include archive-single.html %}
   {% if teaser %}

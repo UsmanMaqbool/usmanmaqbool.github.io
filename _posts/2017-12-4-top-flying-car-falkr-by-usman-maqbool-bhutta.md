@@ -4,10 +4,9 @@ excerpt: "Report on possiblity of flying cars"
 search: true
 header:
   teaser: "/assets/images/falkr/falkr.jpg"
-categories: 
-  - flying-cars 
 tags: 
-  - falkr 
+  - Talk
+  - Business
 permalink: /flying-cars/falkr
 
 last_modified_at: 2018-06-23T08:05:34-05:00

@@ -2,8 +2,7 @@
 title:  "May 2018 &#124; Paper has been accepted in IEEE-Cyber 2018"
 excerpt: "Will be presented on July 20, 2018 InshaALLAH"
 search: true
-categories: 
-  - conference-paper
+tags: 
   - Publications
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---

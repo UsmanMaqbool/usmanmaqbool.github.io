@@ -4,13 +4,9 @@ excerpt: "Happy to see some glimpses of my ongoing Ph.D. journey at HKUST, on th
 search: true
 header:
   teaser: "/assets/images/peef-newsletter-19.jpg"
-categories: 
-  - Awards 
-  - QAU
 tags: 
-  - Awards 
-  - QAU
-permalink: /awards/usman-maqbool-bhutta-featured-in-peef-ccms-ssms-newsletter
+  - Featured in Media
+permalink: /usman-maqbool-bhutta/featured-in-peef-ccms-ssms-newsletter
 
 last_modified_at: 2020-01-16T08:05:34-05:00
 ---

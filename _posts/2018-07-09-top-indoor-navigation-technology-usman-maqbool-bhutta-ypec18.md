@@ -2,9 +2,12 @@
 title:  "July 2018 &#124; Introduced Lisee Technology at IET-YPEC 2018 in Hong Kong."
 excerpt: "Lisee Technology is a low cost indoor navigation system with localization precision upto 10cm."
 search: true
-categories: 
-  - indoor-navigation
-  - lisee-technology
+tags: 
+  - Influencers Meetup
+  - Talk
+  - Featured in Media
+  - Business
+permalink: /indoor-navigation/lisee-technology
 last_modified_at: 2018-07-9T08:05:34-05:00
 toc: true
 toc_sticky: true

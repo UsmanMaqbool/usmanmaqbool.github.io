@@ -2,9 +2,9 @@
 title:  "June 2018 &#124; Attended CCF-GAIR 2018 in Shenzhen, China"
 excerpt: "Topics are covered related to computer vision, intelligent driving, learning, mems lidar by Robosense lidar company review, human-robot interaction - Pepper robot and bionic robots."
 search: true
-categories: 
-  - conference
-  - Autonomous-Driving
+tags: 
+  - Influencers Meetup
+permalink: /usman-maqbool-bhutta/
 last_modified_at: 2018-07-2T08:05:34-05:00
 toc: true
 toc_sticky: true

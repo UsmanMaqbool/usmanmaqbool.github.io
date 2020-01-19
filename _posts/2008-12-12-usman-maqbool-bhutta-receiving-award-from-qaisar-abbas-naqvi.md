@@ -4,13 +4,10 @@ excerpt: "Receiving Award of Honour from Prof. Dr. Qasir A Naqvi (Chairman of De
 search: true
 header:
   teaser: "/assets/images/awards/leo-award-qau-elec.jpg"
-categories: 
-  - Awards 
-  - QAU
 tags: 
-  - Awards 
-  - QAU
-permalink: /awards/usman-maqbool-bhutta-received-award-of-honour-electronics-department-QAU-Pakistan
+  - Influencers Meetup
+  - Awards
+permalink: /usman-maqbool-bhutta/received-award-of-honour-electronics-department-QAU-Pakistan
 
 last_modified_at: 2020-01-16T08:05:34-05:00
 ---
