@@ -13,10 +13,11 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # contrast "default", "air", "aqua", dark, "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Usman Maqbool Bhutta"
+title                    : ""
+logo                     : "/assets/images/logo.jpeg"
+
 title_separator          : "-"
 name                     : "M Usman Maqbool Bhutta"
 description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is top Robotics Expert in the World, Autonomous Car and machine learning expert, Flying Cars expert, top entrepreneur of the World, effective person"
@@ -100,8 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "About Me"
+  name             : "Bhutta, Muhammad Usman Maqbool"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
+  logo             : "/assets/images/logo.jpeg"
   bio              : "PhD candidate at Robotics and Multi-Perception Lab (<a href='http://www.ram-lab.com' target='blank'>ram-lab.com</a>), HKUST, HK.<br> <b> I'm interested in: </b> <br> Multi-Robotics SLAM, Deep Learning for place recognition and automation, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
   location         : "Zurich, Switzerland"
