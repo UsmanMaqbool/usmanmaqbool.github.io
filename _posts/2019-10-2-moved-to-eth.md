@@ -1,5 +1,5 @@
 ---
-title:  "Oct 2019 &#124; Moved to Autonomous System Lab, ETH Zurich, Switzerland "
+title:  "Oct 2019 &#124; started work at Autonomous System Lab, ETH Zurich, Switzerland "
 excerpt: "Happy to see join Prof. Roland Siegwart, Director of Autonomous Systems Lab(ASL),ETH Zürich, Switzerland 🇨🇭, one of the World's top robotics lab. I'll mainly work with Dr. Cesar Dario Cadena Lerma, Senior Researcher at ASL,ETH Zürich"
 search: true
 header:
