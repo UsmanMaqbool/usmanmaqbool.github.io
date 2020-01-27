@@ -20,7 +20,7 @@ logo                     : "/assets/images/logo.jpeg"
 
 title_separator          : "-"
 name                     : "M Usman Maqbool Bhutta"
-description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is top Robotics Expert in the World, Autonomous Car and machine learning expert, Flying Cars expert, top entrepreneur of the World, effective person"
+description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is entrepreneur as well as an excellent robotics researcher. He is interested in Multi-agent system, Autonomous Car and machine learning as well as in flying Cars technology."
 url                      : "https://usmanmaqbool.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : UsmanMaqbool/usmanmaqbool.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
