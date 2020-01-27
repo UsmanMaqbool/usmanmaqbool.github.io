@@ -1,5 +1,5 @@
 ---
-title:  "May 2018 &#124; Received Audience Award from HKUST President Wei Shyy in Campus Challenge @ HKUST Transportation"
+title:  "🇭🇰 May 2018 &#124; Received Audience Award from HKUST President Wei Shyy in Campus Challenge @ HKUST Transportation"
 excerpt: "HKUST got 80+ proposals for this compeitions, and arranged a roadshow. My proposal got selected for the audiance award after getting maximum votes :)"
 search: true
 header:
