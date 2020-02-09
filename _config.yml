@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" # contrast "default", "air", "aqua", dark, "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "M Usman Maqbool Bhutta"
+title                    : "Personal Website of M Usman Maqbool Bhutta"
 logo                     : "/assets/images/logo.jpeg"
 
 title_separator          : "-"

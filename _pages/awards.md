@@ -9,9 +9,9 @@ author_profile: true
 July, 2018 | [**Best Student Paper Finalist Award**](../usman-maqbool-bhutta-ieee-cyber-2018-tianjin/#award), IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems, Tianjin, China |
 May, 2018 | [**Best Proposal Audience Award**](../usman-maqbool-bhutta/won-audience-award-at-HKUST-HK), Campus Challenge - Transportation, HKUST HKUST, HK |
 Nov, 2017 | [**Best Mapper Award**](../usman-maqbool-bhutta/received-best-mapper-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
-May, 2017 | **Completion Award**, The Graduate Teaching Assistant Training, HKUST HKUST, HK |
+May, 2017 | [**Completion Award**](../usman-maqbool-bhutta/complated-graduate-teaching-training), The Graduate Teaching Assistant Training, HKUST HKUST, HK |
 Dec, 2016 | **Best External Award**, Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
-Nov, 2016 | **Completion Award**, Author Workshop, Elsevier Publishing Campus HKUST, HK |
+Nov, 2016 | [**Completion Award**](../usman-maqbool-bhutta/complated-author-training), Author Workshop, Elsevier Publishing Campus HKUST, HK |
 
 ## DOMESTIC
 
