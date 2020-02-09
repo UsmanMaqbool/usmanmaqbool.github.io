@@ -15,7 +15,7 @@ Nov, 2016 | **Completion Award**, Author Workshop, Elsevier Publishing Campus HK
 
 ## DOMESTIC
 
-Aug 2016 | Won [**Cheif Minister Marit Scholarship (CCMS)**](../usman-maqbool-bhutta/won-peef-ccms-pdf-scholarship) scholarship award by [Punjab Government (PEEF), Pakistan](https://www.peef.org.pk/PhdScholars-list.html) for pursuing my PhD studies at HKUST, HK
+Aug 2016 | Won [**Chief Minister Marit Scholarship (CCMS)**](../usman-maqbool-bhutta/won-peef-ccms-pdf-scholarship) scholarship award by [Punjab Government (PEEF), Pakistan](https://www.peef.org.pk/PhdScholars-list.html) for pursuing my PhD studies at HKUST, HK
 Sep 2013 | **Participant**, Painting for peace (Pakistan-India-Afghanistan) event, a part of the Harmony initiative Islamabad, PK
 Apr 2013 | **Participant**, Case Spark in business plan competition Islamabad, PK
 Apr 2013 | **Participant**, Case EPICA Islamabad, PK
