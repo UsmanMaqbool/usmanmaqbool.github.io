@@ -1,5 +1,5 @@
 ---
-title:  "🇵🇰 Aug 2016 &#124; Won Chief Minister Marit Scholarship (CCMS) scholarship award by Punjab Government (PEEF), Pakistan for pursuing my PhD studies at HKUST, HK"
+title:  "🇵🇰 Aug 2016 &#124; Won Chief Minister Marit Scholarship (CCMS) award by Punjab Government (PEEF), Pakistan for pursuing my PhD studies at HKUST, HK"
 excerpt: "More than 15 newspaper in Pakistan reported about the winners of this scholarship. Alhumdulillah, I'm one of 33 students from all over the Pakistan who got selected for scholarship :)"
 search: true
 header:

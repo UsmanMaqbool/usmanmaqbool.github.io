@@ -11,7 +11,7 @@ May, 2018 | [**Best Proposal Audience Award**](../usman-maqbool-bhutta/won-audie
 Nov, 2017 | [**Best Mapper Award**](../usman-maqbool-bhutta/received-best-mapper-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
 May, 2017 | [**Completion Award**](../usman-maqbool-bhutta/complated-graduate-teaching-training), The Graduate Teaching Assistant Training, HKUST HKUST, HK |
 Dec, 2016 | **Best External Award**, Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
-Nov, 2016 | **Completion Award**, Author Workshop, Elsevier Publishing Campus HKUST, HK |
+Nov, 2016 | [**Completion Award**](../usman-maqbool-bhutta/complated-graduate-teaching-training), Author Workshop, Elsevier Publishing Campus HKUST, HK |
 
 ## DOMESTIC
 
