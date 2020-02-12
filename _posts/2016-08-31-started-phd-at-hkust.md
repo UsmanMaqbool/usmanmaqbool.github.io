@@ -6,6 +6,7 @@ header:
   teaser: "/assets/images/phdlife/joined.jpg"
 tags: 
   - Influencers Meetup
+  - Work
 permalink: /usman-maqbool-bhutta/started-phd-at-robotics-and-multi-perception-lab-hkust-hk
 
 last_modified_at: 2020-01-27T08:05:34-05:00

@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/elevator-pitch.jpg"
 tags: 
   - Influencers Meetup
-  - Business
+  - Entrepreneurship
 
 permalink: /usman-maqbool-bhutta/attended-elevator-world-tour-hong-kong
 

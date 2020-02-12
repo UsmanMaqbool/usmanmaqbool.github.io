@@ -7,7 +7,7 @@ header:
 tags: 
   - Influencers Meetup
   - Featured in Media
-  - Business
+  - Entrepreneurship
   - Awards
 permalink: /usman-maqbool-bhutta/won-audience-award-at-HKUST-HK
 

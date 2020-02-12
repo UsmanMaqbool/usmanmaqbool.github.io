@@ -6,16 +6,16 @@ author_profile: true
 ---
 ## INTERNATIONAL
 
-July, 2018 | [**Best Student Paper Finalist Award**](../usman-maqbool-bhutta-ieee-cyber-2018-tianjin/#award), IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems, Tianjin, China |
-May, 2018 | [**Best Proposal Audience Award**](../usman-maqbool-bhutta/won-audience-award-at-HKUST-HK), Campus Challenge - Transportation, HKUST HKUST, HK |
-Nov, 2017 | [**Best Mapper Award**](../usman-maqbool-bhutta/received-best-mapper-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
-May, 2017 | [**Completion Award**](../usman-maqbool-bhutta/complated-graduate-teaching-training), The Graduate Teaching Assistant Training, HKUST HKUST, HK |
-Dec, 2016 | **Best External Award**, Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
-Nov, 2016 | [**Completion Award**](../usman-maqbool-bhutta/complated-graduate-teaching-training), Author Workshop, Elsevier Publishing Campus HKUST, HK |
+July, 2018 | [**Best Student Paper Finalist Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta-ieee-cyber-2018-tianjin/#award), IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems, Tianjin, China |
+May, 2018 | [**Best Proposal Audience Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/won-audience-award-at-HKUST-HK), Campus Challenge - Transportation, HKUST HKUST, HK |
+Nov, 2017 | [**Best Mapper Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/received-best-mapper-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
+May, 2017 | [**Completion Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/complated-graduate-teaching-training), The Graduate Teaching Assistant Training, HKUST HKUST, HK |
+Dec, 2016 | [**Best External Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/received-best-external-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
+Nov, 2016 | [**Completion Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/complated-graduate-teaching-training), Author Workshop, Elsevier Publishing Campus HKUST, HK |
 
 ## DOMESTIC
 
-Aug 2016 | Won [**Chief Minister Marit Scholarship (CCMS)**](../usman-maqbool-bhutta/won-peef-ccms-pdf-scholarship) scholarship award by [Punjab Government (PEEF), Pakistan](https://www.peef.org.pk/PhdScholars-list.html) for pursuing my PhD studies at HKUST, HK
+Aug 2016 | Won [**Chief Minister Marit Scholarship (CCMS)**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/won-peef-ccms-pdf-scholarship) scholarship award by [Punjab Government (PEEF), Pakistan](https://www.peef.org.pk/PhdScholars-list.html) for pursuing my PhD studies at HKUST, HK
 Sep 2013 | **Participant**, Painting for peace (Pakistan-India-Afghanistan) event, a part of the Harmony initiative Islamabad, PK
 Apr 2013 | **Participant**, Case Spark in business plan competition Islamabad, PK
 Apr 2013 | **Participant**, Case EPICA Islamabad, PK

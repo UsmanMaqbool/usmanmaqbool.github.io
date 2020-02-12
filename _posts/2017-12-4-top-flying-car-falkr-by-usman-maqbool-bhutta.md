@@ -6,7 +6,7 @@ header:
   teaser: "/assets/images/falkr/falkr.jpg"
 tags: 
   - Talk
-  - Business
+  - Entrepreneurship
   - Work
 permalink: /flying-cars/falkr
 

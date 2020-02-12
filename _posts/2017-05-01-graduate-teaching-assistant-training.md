@@ -6,6 +6,7 @@ header:
   teaser: "/assets/images/Certificates/1362_001.jpg"
 tags: 
   - Awards
+  - Work
 permalink: /usman-maqbool-bhutta/complated-graduate-teaching-training
 
 last_modified_at: 2020-01-16T08:05:34-05:00

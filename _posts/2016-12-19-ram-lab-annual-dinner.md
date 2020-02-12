@@ -12,7 +12,7 @@ last_modified_at: 2020-01-16T08:05:34-05:00
 
 ---
 Here are some glimpses of my first visit to mainland China (Shenzhen) for annual dinner.
-
+#CITYU #HKUST #HK
 
 <figure>
     <a href="/assets/images/annual-dinner-2016/group.jpg"><img src="/assets/images/annual-dinner-2016/group.jpg"></a>
@@ -29,7 +29,7 @@ Here are some glimpses of my first visit to mainland China (Shenzhen) for annual
     <figcaption>Selfie :)</figcaption>
 </figure>
 
-
+## Award
 <figure>
     <a href="/assets/images/Certificates/annual-dinner.jpg"><img src="/assets/images/Certificates/annual-dinner.jpg"></a>
     <figcaption>Certificate :)</figcaption>

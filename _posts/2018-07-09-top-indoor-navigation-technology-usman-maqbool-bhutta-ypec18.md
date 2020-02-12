@@ -6,7 +6,8 @@ tags:
   - Influencers Meetup
   - Talk
   - Featured in Media
-  - Business
+  - Entrepreneurship
+  - Work
 permalink: /indoor-navigation/lisee-technology
 last_modified_at: 2018-07-9T08:05:34-05:00
 toc: true
