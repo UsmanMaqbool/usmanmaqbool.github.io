@@ -2,6 +2,5 @@ leo-README.md
 _site
 .sass-cache
 .jekyll-metadata
-_config.yml
 Gemfile
 Gemfile.lock
