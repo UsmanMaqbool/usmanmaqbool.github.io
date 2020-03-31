@@ -20,7 +20,7 @@ author_profile: true
 **Product Demo:** Not yet available <br> **Website:** [www.24display.com](www.24display.com) <br> **Status:** Stand by 
 > **Projects under 24 Display**: <br>
 Launched [**Saviours**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/saviours-of-pakistan)  Portal to help needy during Corona pandemic in Pakistan.
-<br> **Product Demo:** [Available](www.24display.com/saviours)
+<br> **Product Demo:** [Available](http://www.24display.com/saviours)
 
 ## Falkr <img src="/assets/images/logofalkr.png" style="height: 45px;float: right;" alt="falkr Logo"  >
 
