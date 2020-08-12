@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publication"
 permalink: /publication/
 author_profile: true
 toc: true
 toc_sticky: true
 ---
+## 2020
+<!---
+> M Usman Maqbool Bhutta, Manohar Kuse, Rui~Fan, Yanan Liu, Ming Liu, **Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping**, IEEE Transactions on Cybernetics {under-revision}.
+-->
+> M Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao JIAO, Ming Liu, **Smart-Inspect: Micro Scale Localization and Classification of Smart Phone Glass Defects for Industrial Automation**, in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020).
+
 ## 2018
 > Ma, Han, Yixin Ma, Jianhao Jiao, M. Usman Maqbool Bhutta, Mohammud Junaid Bocus, Lujia Wang, Ming Liu, and Rui Fan. **Multiple lane detection algorithm based on optimised dense disparity map estimation.** In 2018 IEEE International Conference on Imaging Systems and Techniques (IST), pp. 1-5. IEEE, 2018.
 
