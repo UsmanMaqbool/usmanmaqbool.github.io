@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping "
-permalink: /publication/loop-box
+permalink: /loop-box
 author_profile: true
 toc: true
 toc_sticky: true
