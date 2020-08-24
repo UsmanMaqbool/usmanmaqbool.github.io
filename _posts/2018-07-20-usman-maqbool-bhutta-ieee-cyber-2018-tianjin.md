@@ -12,7 +12,7 @@ last_modified_at: 2018-07-25T08:05:34-05:00
 toc: true
 toc_sticky: true
 header:
-  teaser: "/assets/images/cyber18/icyber%20(126).jpg"
+  teaser: "/assets/images/cyber18/cyber%20(126).jpg"
 ---
 The 8th Annual IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems [[IEEE-CYBER 2018](http://www.ieee-cyber.org/2018/)] was held in :triangular_flag_on_post: Hyatt Regency Tianjin East, Tianjin, China (July 19 – July 23, 2018).
 ## Presentation
