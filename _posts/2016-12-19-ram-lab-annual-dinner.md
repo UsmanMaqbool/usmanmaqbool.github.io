@@ -1,5 +1,5 @@
 ---
-title:  "🇨🇳 Dec 2016  &#124; Received Best External Award from Prof. Ming"
+title:  ":cn: Dec 2016  &#124; Received Best External Award from Prof. Ming"
 search: true
 header:
   teaser: "/assets/images/Certificates/annual-dinner.jpg"

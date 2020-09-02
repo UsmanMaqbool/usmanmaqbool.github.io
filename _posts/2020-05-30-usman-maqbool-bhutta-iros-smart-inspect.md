@@ -1,5 +1,5 @@
 ---
-title:  "🇺🇸 Jun 2020 &#124; Paper has been accepted in IROS 2020."
+title:  ":us: Jun 2020 &#124; Paper has been accepted in IROS 2020."
 excerpt: "Will be presented on Oct 25-29, 2020 at Las Vegas, NV, USA InshaALLAH"
 search: true
 tags: 

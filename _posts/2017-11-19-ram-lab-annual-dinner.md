@@ -1,5 +1,5 @@
 ---
-title:  "🇨🇳 Nov 2017  &#124; Received Best Mapper Award from Prof. Lujia Wang at Shangri-La Shenzhen, China"
+title:  ":cn: Nov 2017  &#124; Received Best Mapper Award from Prof. Lujia Wang at Shangri-La Shenzhen, China"
 excerpt: "Presented by research work and received best mapper award :)"
 search: true
 header:
