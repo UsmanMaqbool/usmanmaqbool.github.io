@@ -1,14 +1,14 @@
 ---
-layout: archive
 title: "Why-So-Deep"
 permalink: /why-so-deep
-author_profile: true
-toc: true
-toc_sticky: true
-read_time: false
-author_profile: false
-comments: false
+sidebar:
+  - title: "Why-So-Deep"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "**M Usman Maqbool Bhutta** "
+  - title: 
+    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
+
 ---
 
-> 
 > Coming Soon

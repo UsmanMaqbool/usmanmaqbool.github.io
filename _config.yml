@@ -242,7 +242,9 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-#   layouts:
+layout: widen
+classes:
+  - wide
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
@@ -271,3 +273,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_sticky: false
+      read_time: false
+      author_profile: false
+      comments: false    
