@@ -1,5 +1,5 @@
 ---
-title:  "🇭🇰 Oct 2016 &#124; Attended Elevator World Tour™ Hong Kong"
+title:  ":hong_kong: Oct 2016 &#124; Attended Elevator World Tour™ Hong Kong"
 search: true
 header:
   teaser: "/assets/images/elevator-pitch.jpg"

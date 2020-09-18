@@ -1,5 +1,5 @@
 ---
-title:  "🇭🇰 Sep 2016 &#124; Started PhD at Robotics and Multi-Perception Lab, Robotics Institute, HKUST "
+title:  ":hong_kong: Sep 2016 &#124; Started PhD at Robotics and Multi-Perception Lab, Robotics Institute, HKUST "
 excerpt: "Finally, journey of my PhD life has started. There are a lot of aims and milestones in my heart. May ALLAH help me in acheiving. I'm very glad to join Robotics and Multi-Perception Lab, Robotics Institue, HKUST, HK"
 search: true
 header:

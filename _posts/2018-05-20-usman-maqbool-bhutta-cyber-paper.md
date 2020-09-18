@@ -1,5 +1,5 @@
 ---
-title:  "🇨🇳 May 2018 &#124; Paper has been accepted in IEEE-Cyber 2018"
+title:  ":cn: May 2018 &#124; Paper has been accepted in IEEE-Cyber 2018"
 excerpt: "Will be presented on July 20, 2018 InshaALLAH"
 search: true
 tags: 

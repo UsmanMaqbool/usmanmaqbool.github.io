@@ -1,5 +1,5 @@
 ---
-title:  "🇭🇰 May 2017 &#124; Successfully completed the graduate teaching assistant training at HKUST"
+title:  ":hong_kong: May 2017 &#124; Successfully completed the graduate teaching assistant training at HKUST"
 excerpt: "I've already teaching experience of about 1 year. Its really interesting to learn about new tools that basically enhance the teaching quality."
 search: true
 header:

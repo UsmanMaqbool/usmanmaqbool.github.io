@@ -1,5 +1,5 @@
 ---
-title:  "🇨🇭 Mar 2020 &#124; Met with Dennis Just, CEO of smallpdf at Startup Champions Event at ETH Zurich"
+title:  ":switzerland: Mar 2020 &#124; Met with Dennis Just, CEO of smallpdf at Startup Champions Event at ETH Zurich"
 excerpt: "Happy to meet Dennis Just, CEO of smallpdf. I really liked his thought towards successful startup building"
 search: true
 header:

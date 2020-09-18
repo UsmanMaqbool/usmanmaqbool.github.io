@@ -89,7 +89,8 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
-  background-color: lightgray;
+  //background-color: lightgray;
+  color: royalblue !important;
 }
 
 /* Prevent sub and sup affecting line-height in all browsers */

@@ -294,13 +294,16 @@
   margin-bottom: 8px;
   text-decoration: none;
   // border-bottom: 1px solid #8f8f8f;
-  border: 1px solid mix(#000, $border-color, 25%);
+  //border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
   padding: 1px 7px;
-
+  background-color: royalblue;
+  color: white;
+  
   &:hover {
     text-decoration: none;
     color: $link-color-hover;
+    background-color:aliceblue;
   }
 }
 

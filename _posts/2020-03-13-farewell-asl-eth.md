@@ -1,5 +1,5 @@
 ---
-title:  "🇨🇭 Mar 2020 &#124; Farewell at ASL"
+title:  ":switzerland: Mar 2020 &#124; Farewell at ASL"
 excerpt: "I really had great time while working at ASL under the supervision of Dr. Caser and Prof Roland. I found ETH, a very heathly working enviornment with a lot of collaboration arround, from very kind people."
 search: true
 header:

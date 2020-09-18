@@ -106,7 +106,7 @@ author:
   logo             : "/assets/images/logo.jpeg"
   bio              : "PhD candidate at Robotics and Multi-Perception Lab (<a href='http://www.ram-lab.com' target='blank'>ram-lab.com</a>), HKUST, HK.<br> <b> I'm interested in: </b> <br> Multi-Robotics SLAM, Deep Learning for place recognition and automation, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
-  location         : "Zurich, Switzerland"
+  location         : "Robotics Institute, HKUST, Hong Kong"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -199,11 +199,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+emoji_dir: "https://github.githubassets.com/images/icons/emoji"
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
