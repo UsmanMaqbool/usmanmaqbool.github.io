@@ -3,7 +3,7 @@ title: "Why-So-Deep"
 permalink: /why-so-deep
 sidebar:
   - title: "Why-So-Deep"
-    image: http://placehold.it/350x250
+    image: ../assets/images/maqbool/logo.png
     image_alt: "image"
     text: "**M Usman Maqbool Bhutta** "
   - title: 
@@ -11,4 +11,5 @@ sidebar:
 
 ---
 
+http://placehold.it/350x250
 > Coming Soon
