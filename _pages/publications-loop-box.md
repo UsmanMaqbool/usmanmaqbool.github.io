@@ -27,7 +27,7 @@ Accepted in IEEE Transactions on Cybernetics (IF: 11+)
 ```
 @article{bhutta2020loopbox,
 title={{Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large-Scale Mapping}}, 
-author={M Usman Maqbool Bhutta, Manohar Kuse, Rui Fan, Yanan Liu and Ming Liu},
+author={Bhutta, M Usman Maqbool and Kuse, Manohar and Fan, Rui and Liu, Yanan and Liu, Ming},
 year={2020},
 eprint={2009.13851},
 archivePrefix={arXiv},
