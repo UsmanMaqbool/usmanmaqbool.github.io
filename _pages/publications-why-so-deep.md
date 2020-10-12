@@ -7,9 +7,11 @@ sidebar:
     image_alt: "image"
     text: "**M Usman Maqbool Bhutta** "
   - title: 
-    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
+    text: "[Github](https://github.com/usmanmaqbool)"
 
 ---
 
-http://placehold.it/350x250
+WhySoDeep: Probabilistic Spatial Landmarks Elevation for Better Visual Place Recognition 
+
+
 > Coming Soon
