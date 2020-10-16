@@ -7,7 +7,7 @@ sidebar:
     image_alt: "image"
     text: "**M Usman Maqbool Bhutta** "
   - title: 
-    text: "[Github](https://github.com/usmanmaqbool)"
+    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
 
 ---
 
