@@ -3,7 +3,7 @@ title: "Why-So-Deep"
 permalink: /why-so-deep
 sidebar:
   - title: "Why-So-Deep"
-    image: ../assets/images/maqbool/logo.png
+    image: ../assets/images/maqbool/logo.jpg
     image_alt: "image"
     text: "**M Usman Maqbool Bhutta**, Tang Li and Ming Liu "
   - title: 
