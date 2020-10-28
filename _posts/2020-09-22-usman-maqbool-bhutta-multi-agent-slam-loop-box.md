@@ -11,9 +11,14 @@ last_modified_at: 2020-09-22T08:05:34-05:00
 
 **Title:** Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping.
 
-<!---
-**Abstract:** The presence of any type of defect on the glass screen of smart devices has a great impact on their quality. We present a robust semi-supervised learning framework for intelligent micro-scaled localization and classification of defects on a 16K pixel image of smartphone glass. Our model features the efficient recognition and labeling of three types of defects: scratches, light leakage due to cracks, and pits. Our method also differentiates between the defects and light reflections due to dust particles and sensor regions, which are classified as non-defect areas. We use a partially labeled dataset to achieve high robustness and excellent classification of defect and non-defect areas as compared to principal components analysis (PCA), multi-resolution and information-fusion-based algorithms. In addition, we incorporated two classifiers at different stages of our inspection framework for labeling and refining the unlabeled defects. We successfully enhanced the inspection depth-limit up to 5 microns. The experimental results show that our method outperforms manual inspection in testing the quality of glass screen samples by identifying defects on samples that have been marked as good by human inspection.
+[Small Button](https://usmanmaqbool.github.io/loop-box){: .btn .btn--info .btn--small}
 
+**Abstract:** In this paper, we present a multi-agent framework for real-time large-scale 3D reconstruction applications. In SLAM, researchers usually build and update a 3D map after applying non-linear pose graph optimization techniques. Moreover, many multi-agent systems are prevalently using odometry information from additional sensors. These methods generally involve intensive computer vision algorithms and are tightly coupled with various sensors. We develop a generic method for the keychallenging scenarios in multi-agent 3D mapping based on different camera systems. The proposed framework performs actively in terms of localizing each agent after the first loop closure between them. It is shown that the proposed system only uses monocular cameras to yield real-time multi-agent large-scale localization and 3D global mapping. Based on the initial matching, our system can calculate the optimal scale difference between multiple 3D maps and then estimate an accurate relative pose transformation for large-scale global mapping.
+{: .notice--info}
+
+
+
+<!---
 <figure>
     <a href="/assets/images/publication/smart-inspect.jpg"><img src="/assets/images/publication/smart-inspect.jpg"></a>
     <figcaption>Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation.</figcaption>
