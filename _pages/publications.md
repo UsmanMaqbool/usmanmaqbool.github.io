@@ -9,11 +9,11 @@ toc_sticky: true
 ## 2020
 <!--- 
 -->
-> M Usman Maqbool Bhutta, Manohar Kuse, Rui~Fan, Yanan Liu, Ming Liu, **Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping**, IEEE Transactions on Cybernetics. [Paper Website](https://usmanmaqbool.github.io/loop-box)
+> M Usman Maqbool Bhutta, Manohar Kuse, Rui~Fan, Yanan Liu, Ming Liu, **Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping**, IEEE Transactions on Cybernetics. [paper website](https://usmanmaqbool.github.io/loop-box) [video](https://www.youtube.com/watch?v=AatjVz5ysV8)
 <br>
 <img src="/assets/images/publication/cover-loop-box.png" style="height: 250px;display: block; margin-left: 17%;" alt="Loop-box"  > 
 
-> M Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao JIAO, Ming Liu, **Smart-Inspect: Micro Scale Localization and Classification of Smart Phone Glass Defects for Industrial Automation**, in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020). [Paper Website](https://usmanmaqbool.github.io/smart-inspect)) [video](https://www.youtube.com/watch?v=lYuSfzzmRS0)<br>
+> M Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao JIAO, Ming Liu, **Smart-Inspect: Micro Scale Localization and Classification of Smart Phone Glass Defects for Industrial Automation**, in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020). [paper website](https://usmanmaqbool.github.io/smart-inspect) [video](https://www.youtube.com/watch?v=lYuSfzzmRS0)<br>
 <img src="/assets/images/publication/cover-smart-inspect.png" style="height: 250px;display: block; margin-left: 17%;" alt="Smart-Inspect"  > 
 
 ## 2018
