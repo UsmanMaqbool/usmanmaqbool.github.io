@@ -6,12 +6,12 @@ header:
   teaser: "/assets/images/publication/cover-loop-box.png"
 tags: 
   - Publications
-last_modified_at: 2020-09-22T08:05:34-05:00
+last_modified_at: 2020-10-22T08:05:34-05:00
 ---
 
 **Title:** Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping.
 
-[Small Button](https://usmanmaqbool.github.io/loop-box){: .btn .btn--info .btn--small}
+[Paper Website](https://usmanmaqbool.github.io/loop-box){: .btn .btn--info .btn--small}
 
 **Abstract:** In this paper, we present a multi-agent framework for real-time large-scale 3D reconstruction applications. In SLAM, researchers usually build and update a 3D map after applying non-linear pose graph optimization techniques. Moreover, many multi-agent systems are prevalently using odometry information from additional sensors. These methods generally involve intensive computer vision algorithms and are tightly coupled with various sensors. We develop a generic method for the keychallenging scenarios in multi-agent 3D mapping based on different camera systems. The proposed framework performs actively in terms of localizing each agent after the first loop closure between them. It is shown that the proposed system only uses monocular cameras to yield real-time multi-agent large-scale localization and 3D global mapping. Based on the initial matching, our system can calculate the optimal scale difference between multiple 3D maps and then estimate an accurate relative pose transformation for large-scale global mapping.
 {: .notice--info}
