@@ -6,7 +6,7 @@ header:
   teaser: "/assets/images/publication/cover-smart-inspect.png"
 tags: 
   - Publications
-last_modified_at: 2020-06-30T08:05:34-05:00
+last_modified_at: 2020-10-30T08:05:34-05:00
 ---
 
 **Title:** Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation.
