@@ -17,7 +17,6 @@ last_modified_at: 2020-06-30T08:05:34-05:00
     <a href="/assets/images/publication/smart-inspect.jpg"><img src="/assets/images/publication/smart-inspect.jpg"></a>
     <figcaption>Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation.</figcaption>
 </figure>
-<!---
+
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jVjiV6BOH10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYuSfzzmRS0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
