@@ -1,5 +1,5 @@
 ---
-title: "Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping "
+title: "Loop-box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping "
 permalink: /loop-box
 sidebar:
   - title: "Loop-box"
@@ -16,7 +16,7 @@ sidebar:
 
 Accepted in IEEE Transactions on Cybernetics (IF: 11+)
 
-**Abstract:**  In this paper, we present a multi-agent framework for real-time large-scale 3D reconstruction applications. In SLAM, researchers usually build and update a 3D map after applying non-linear pose graph optimization techniques. Moreover, many multi-agent systems are prevalently using odometry information from additional sensors. These methods generally involve intensive computer vision algorithms and are tightly coupled with various sensors. We develop a generic method for the keychallenging scenarios in multi-agent 3D mapping based on different camera systems. The proposed framework performs actively in terms of localizing each agent after the first loop closure between them. It is shown that the proposed system only uses monocular cameras to yield real-time multi-agent large-scale localization and 3D global mapping. Based on the initial matching, our system can calculate the optimal scale difference between multiple 3D maps and then estimate an accurate relative pose transformation for large-scale global mapping.
+**Abstract:**  In this paper, we present a multiagent framework for real-time large-scale 3D reconstruction applications. In SLAM, researchers usually build and update a 3D map after applying non-linear pose graph optimization techniques. Moreover, many multiagent systems are prevalently using odometry information from additional sensors. These methods generally involve intensive computer vision algorithms and are tightly coupled with various sensors. We develop a generic method for the keychallenging scenarios in multiagent 3D mapping based on different camera systems. The proposed framework performs actively in terms of localizing each agent after the first loop closure between them. It is shown that the proposed system only uses monocular cameras to yield real-time multiagent large-scale localization and 3D global mapping. Based on the initial matching, our system can calculate the optimal scale difference between multiple 3D maps and then estimate an accurate relative pose transformation for large-scale global mapping.
 {: .notice--info}
 
 
@@ -27,12 +27,11 @@ Accepted in IEEE Transactions on Cybernetics (IF: 11+)
 
 ```
 @article{bhutta2020loopbox,
-title={Loop-box: Multi-agent direct SLAM triggered by single loop closure for large-scale mapping}, 
-author={Bhutta, M Usman Maqbool and Kuse, Manohar and Fan, Rui and Liu, Yanan and Liu, Ming},
-journal={arXiv preprint arXiv:2009.13851},
+title={{Loop-Box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large-Scale Mapping}}, 
+author={M. U. M. {Bhutta} and M. {Kuse} and R. {Fan} and Y. {Liu} and M. {Liu}},
+journal={IEEE Transactions on Cybernetics},
 year={2020},
-url = {https://arxiv.org/abs/2009.13851},
-archivePrefix={arXiv},
-primaryClass={cs.RO}
+doi={10.1109/TCYB.2020.3027307}},
+pages={1-10}
 }
 ```
