@@ -16,7 +16,6 @@ Why-So-Deep:Image Correspondence Verification by Probabilistic Spatial Landmarks
 
 > Coming Soon
 
-
 ## Installation
 
 ## Results
@@ -47,6 +46,8 @@ $$
     \underbrace{dat}
    }^\text{file name}
 $$
+
+
 
 ### Thumbnails generating for top 5 results
 
