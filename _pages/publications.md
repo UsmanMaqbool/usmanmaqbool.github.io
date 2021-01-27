@@ -40,8 +40,8 @@ toc_sticky: true
 
 ## Automonous Driving
 
+### Lane Detection
 #### 2018
-
 
 - Ma, Han, Yixin Ma, Jianhao Jiao, M. Usman Maqbool Bhutta, Mohammud Junaid Bocus, Lujia Wang, Ming Liu, and Rui Fan. **Multiple lane detection algorithm based on optimised dense disparity map estimation.** In 2018 IEEE International Conference on Imaging Systems and Techniques (IST), pp. 1-5. IEEE, 2018.
 
