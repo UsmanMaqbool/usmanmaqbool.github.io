@@ -8,6 +8,7 @@ sidebar:
     text: "**M Usman Maqbool Bhutta**, Yuxiang Sun and Ming Liu"
   - title: 
     text: "[Github](https://github.com/usmanmaqbool/maqbool)"
+usemathjax: true
 ---
 
 Why-So-Deep:Image Correspondence Verification by Probabilistic Spatial Landmarks Elevation for Visual Place Recognition
@@ -15,8 +16,6 @@ Why-So-Deep:Image Correspondence Verification by Probabilistic Spatial Landmarks
 
 > Coming Soon
 
-
-$$\LaTeX$$, \[\LaTeX\], and \(\LaTeX\)
 
 ## Installation
 
@@ -48,19 +47,6 @@ $$
     \underbrace{dat}
    }^\text{file name}
 $$
-
-```math
-\overbrace{
-    \underbrace{vd16}_\text{real} \_
-    \underbrace{tokyoTM\_}_\text{trained on} to
-    \underbrace{\_tokyo247}_\text{tested on}\_
-    \underbrace{maqbool}_\text{method}\_
-    \underbrace{DT\_100}_\text{distance tree size}\_
-    \underbrace{512}_\text{feature dimension}.
-    \underbrace{dat}
-   }^\text{file name}
-```
-
 
 ### Thumbnails generating for top 5 results
 
