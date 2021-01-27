@@ -500,9 +500,9 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: $type-size-6;
-    background: $primary-color;
+    background: #f0f0f0;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
