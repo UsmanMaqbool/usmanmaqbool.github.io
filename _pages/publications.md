@@ -47,7 +47,8 @@ toc_sticky: true
 
 
 ## Digital Electronics
+### Reset Design
 #### 2015
 
-- Zoha Qamar, Bushra Yaseen, and Usman Maqbool, **Efficient reset design techniques**,Science International, ISSN 1013-5316, vol. 27, no. 2, pp. 1671–1674, 2015.
+- Zoha Qamar, Bushra Yaseen, and Usman Maqbool, **Efficient reset design techniques**, Science International, ISSN 1013-5316, vol. 27, no. 2, pp. 1671–1674, 2015.
 
