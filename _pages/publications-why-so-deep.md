@@ -32,6 +32,10 @@ Pittsburg               | :Pittsburg:       | :512-D:           |  [MAQBOOL Mode
 ^^ [dbFeatFn, qFeatFn](#)  | ^^                | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
 
 
+One    | Two | Three | Four    | Five  | Six
+-|||||-
+Span <td colspan=3>triple  <td colspan=2>double
+
 ### Results files for ploting
 
 Our Maqbool results dat files are available for comparison. You can download and plot your TikZ (Latex), plot.ly etc.
