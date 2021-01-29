@@ -12,10 +12,6 @@ usemathjax: true
 ---
 
 Why-So-Deep:Image Correspondence Verification by Probabilistic Spatial Landmarks Elevation for Visual Place Recognition
-
-
-> Coming Soon
-
 ## Installation
 
 ## Results
