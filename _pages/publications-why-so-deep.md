@@ -33,6 +33,15 @@ Pittsburg               | :Pittsburg:       | :512-D:           |  [MAQBOOL Mode
 
 
 
+|             |          :Grouping:           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+
+
 ### Results files for ploting
 
 Our Maqbool results dat files are available for comparison. You can download and plot your TikZ (Latex), plot.ly etc.
