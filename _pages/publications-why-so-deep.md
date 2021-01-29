@@ -32,9 +32,78 @@ Pittsburg               | :Pittsburg:       | :512-D:           |  [MAQBOOL Mode
 ^^ [dbFeatFn, qFeatFn](#)  | ^^                | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
 
 
-One    | Two | Three | Four    | Five  | Six
--|||||-
-Span <td colspan=3>triple  <td colspan=2>double
+  <thead>
+    <tr>
+      <th>Test-Dataset</th>
+      <th>Trained on</th>
+      <th>Feature Dimension</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Tokyo247
+<br>
+<a href="#">dbFeatFn, qFeatFn</a>
+<br><br>
+</td>
+      <td style="text-align: center">TokyoTM</td>
+      <td style="text-align: center" rowspan="2">512-D
+<br>
+</td>
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+    <tr>
+      
+      <td style="text-align: center">Pittsburg</td>
+      
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+    <tr>
+      
+      <td style="text-align: center">TokyoTM</td>
+      <td style="text-align: center" rowspan="2">4096-D
+<br>
+</td>
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+    <tr>
+      
+      <td style="text-align: center">Pittsburg</td>
+      
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Pittsburg
+<br>
+<a href="#">dbFeatFn, qFeatFn</a>
+</td>
+      <td style="text-align: center" rowspan="2">Pittsburg
+<br>
+</td>
+      <td style="text-align: center">512-D</td>
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+    <tr>
+      
+      
+      <td style="text-align: center">4096-D</td>
+      <td>
+<a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL Re</a>
+</td>
+    </tr>
+  </tbody>
+
 
 ### Results files for ploting
 
