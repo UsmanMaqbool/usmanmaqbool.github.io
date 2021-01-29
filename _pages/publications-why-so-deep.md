@@ -24,11 +24,17 @@ Why-So-Deep:Image Correspondence Verification by Probabilistic Spatial Landmarks
 
 MAQBOOL Trained on TOKYOTM dataset. First 250 test samples are taken.
 
-Dataset (Test) | Previously trained on | Download 
----------|----------|---------|---------
-Tokyo247 | Tokyo247 | [512-D](#) , [4096-D](#)          
-Tokyo247 | Pittsburg | [512-D](#) , [4096-D](#)
-Pittsburg  | Pittsburg | [512-D](#) , [4096-D](#)
+Download Test datasets and trained models from [NetVLAD project website](https://www.di.ens.fr/willow/research/netvlad/).
+
+Test-Dataset               | Trained on        | Feature Dimension |      Download 
+---------------------------|-------------------|-------------------|-------------
+Tokyo247                   | :TokyoTM:         | :512-D:           |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#)           
+^^ [dbFeatFn, qFeatFn](#)  | :Pittsburg:       |  ^^               |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
+^^                         | :TokyoTM:         | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
+^^                         | :Pittsburg:       | ^^                |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
+Pittsburg               | :Pittsburg:       | :512-D:           |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
+^^ [dbFeatFn, qFeatFn](#)  | ^^                | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
+
 
 ### Results files for ploting
 
