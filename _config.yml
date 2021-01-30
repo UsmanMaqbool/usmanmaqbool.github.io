@@ -211,7 +211,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-spaceship  
+  
 
 # mimic GitHub Pages with --safe
 whitelist:

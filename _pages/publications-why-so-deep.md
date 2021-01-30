@@ -22,40 +22,45 @@ MAQBOOL Trained on TOKYOTM dataset. First 250 test samples are taken.
 
 Download Test datasets and trained models from [NetVLAD project website](https://www.di.ens.fr/willow/research/netvlad/).
 
-Test-Dataset               | Trained on        | Feature Dimension |      Download 
----------------------------|-------------------|-------------------|-------------
-Tokyo247                   | :TokyoTM:         | :512-D:           |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#)           
-^^ [dbFeatFn, qFeatFn](#)  | :Pittsburg:       |  ^^               |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
-^^                         | :TokyoTM:         | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
-^^                         | :Pittsburg:       | ^^                |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
-Pittsburg               | :Pittsburg:       | :512-D:           |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
-^^ [dbFeatFn, qFeatFn](#)  | ^^                | :4096-D:          |  [MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re](#) 
 
-
-
-<table>
+<table align="center">
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
+            <th>Test-Dataset</th>
+            <th align="center">Trained on</th>
+            <th align="center">Feature Dimension</th>
+            <th align="center">Download</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=4>Tokyo247 <br> [dbFeatFn, qFeatFn](#)</td>
+            <td rowspan=2 align="center">TokyoTM</td>
+            <td align="center">512-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
+            <td align="center">4096-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
+            <td rowspan=2 align="center">Pittsburg</td>
+            <td align="center"> 512-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
         </tr>
         <tr>
-            <td>L3 Name D</td>
+            <td align="center">4096-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Pittsburg <br> [dbFeatFn, qFeatFn](#)</td>
+            <td rowspan=2 align="center">Pittsburg</td>
+            <td align="center" >512-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
+        </tr>
+        <tr>
+            <td align="center">4096-D</td>
+            <td align="center">[MAQBOOL Model](#) <br> [NetVLAD Bin Files](#) <br> [MAQBOOL Re]</td>
         </tr>
     </tbody>
 </table>
