@@ -1,7 +1,7 @@
 ---
 #layout: archive
-title: "Publication"
-permalink: /publication/
+title: "Research & Publication"
+permalink: /research-publication/
 author_profile: true
 toc: true
 toc_sticky: true
