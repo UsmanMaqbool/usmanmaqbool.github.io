@@ -1,18 +1,20 @@
 ---
-title: "Why-So-Deep"
+title: "Why-So-Deep : Image Correspondence Verification by Probabilistic Spatial Landmarks Elevation for Visual Place Recognition"
 permalink: /why-so-deep
 sidebar:
   - title: "MAQBOOL"
     image: ../assets/images/maqbool/logo.png
     image_alt: "image"
-    text: "Why-So-Deep : Image Correspondence Verification by Probabilistic Spatial Landmarks Elevation for Visual Place Recognition"
-  - title: 
-    text: "**M Usman Maqbool Bhutta**, Yuxiang Sun and Ming Liu" 
-  - title: 
-    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
+    text: "Submitted for Publication"
+  - title: Other Research & Publications
+    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
 usemathjax: true
 ---
+> **M Usman Maqbool Bhutta**, Yuxiang Sun and Ming Liu
+> 
+> Under Review
 
+**Important Links:** [Github](https://github.com/usmanmaqbool/maqbool) \|  [Bibtex](#citation)
 
 ## Installation
 
