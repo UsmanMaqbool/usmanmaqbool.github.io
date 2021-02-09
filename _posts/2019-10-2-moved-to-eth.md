@@ -12,7 +12,7 @@ last_modified_at: 2020-01-27T08:05:34-05:00
 ---
 Happy to join [Prof. Roland Siegwart](https://asl.ethz.ch/the-lab.html), Director of [Autonomous Systems Lab(ASL)](https://asl.ethz.ch/),ETH Zürich, Switzerland :switzerland:, one of the World's top robotics lab. I'll mainly work with [Dr. Cesar Dario Cadena Lerma](http://n.ethz.ch/~cesarc/), Senior Researcher at ASL,ETH Zürich.
 
-**Research Topic:** Deep learning based robust place recognition for multi-agent SLAM system.
+**Research Topic:** Deep learning based robust place recognition for multiagent SLAM system.
 
 #MashaALLAH #PEEFScholar #PEEF #phdVibes #PunjabGovernment #asl #eth
 
