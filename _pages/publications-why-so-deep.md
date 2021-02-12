@@ -29,8 +29,8 @@ File name example is shown below:
 $$
 \overbrace{
     \underbrace{vd16}_\text{real} \_
-    \underbrace{tokyoTM\_}_\text{trained on} to
-    \underbrace{\_tokyo247}_\text{tested on}\_
+    \underbrace{tokyoTM}_\text{pretrained on} \_to\_
+    \underbrace{tokyo247}_\text{tested on}\_
     \underbrace{maqbool}_\text{method}\_
     \underbrace{DT\_100}_\text{distance tree size}\_
     \underbrace{512}_\text{feature dimension}.
@@ -42,7 +42,7 @@ $$
 
 ### Thumbnails generating for top 5 results
 
-Please check this file '' and plot the results.
+Open `<span style="font-weight: bold;">config_wsd.m:</span>` and ake `show_output = 1`.
 ### Download pre-computed files
 
 MAQBOOL Trained on TOKYOTM dataset. First 250 test samples are taken.
@@ -61,33 +61,33 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>Tokyo247 <br> <a href="#">dbFeatFn, qFeatFn </a> </td>
-            <td rowspan=2 align="center">TokyoTM</td>
+            <td rowspan=4>Tokyo247 </td>
+            <td rowspan=2 align="center">TokyoTM <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EtG4Cg9wxulHlL91yv8M4jgBgiH5Gi3_wJNuYO3FsgCgQA?e=eJYJYg">dbFeatFn, qFeatFn </a> </td>
             <td align="center">512-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br> f_dimension = 512, net_dataset = 'tokyoTM'; job_datasets = 'tokyo247';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_tokyoTM_to_tokyoTM_512_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
         <tr>
             <td align="center">4096-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br>  f_dimension = 4096, net_dataset = 'tokyoTM'; job_datasets = 'tokyo247';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_tokyoTM_to_tokyoTM_4096_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
         <tr>
-            <td rowspan=2 align="center">Pittsburg</td>
+            <td rowspan=2 align="center">Pittsburg <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EtG4Cg9wxulHlL91yv8M4jgBgiH5Gi3_wJNuYO3FsgCgQA?e=eJYJYg">dbFeatFn, qFeatFn </a> </td>
             <td align="center"> 512-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br>  f_dimension = 512, net_dataset = 'pitts30k'; job_datasets = 'tokyo247';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_pitts30k_to_tokyoTM_512_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
         <tr>
             <td align="center">4096-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br>  f_dimension = 4096, net_dataset = 'pitts30k'; job_datasets = 'tokyo247';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_pitts30k_to_tokyoTM_4096_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
         <tr>
-            <td rowspan=2>Pittsburg <br> <a href="#">dbFeatFn, qFeatFn </a> </td>
-            <td rowspan=2 align="center">Pittsburg</td>
+            <td rowspan=2>Pittsburg  </td>
+            <td rowspan=2 align="center">Pittsburg <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EtG4Cg9wxulHlL91yv8M4jgBgiH5Gi3_wJNuYO3FsgCgQA?e=eJYJYg">dbFeatFn, qFeatFn </a> </td>
             <td align="center" >512-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br>  f_dimension = 512, net_dataset = 'pitts30k'; job_datasets = 'pitts30k';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_pitts30k_to_pitts30k_512_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
         <tr>
             <td align="center">4096-D</td>
-            <td align="center"><a href="#">MAQBOOL Model</a> <br> <a href="#">NetVLAD Bin Files</a> <br> <a href="#">MAQBOOL</a> </td>
+            <td align="center">[<span style="font-weight: bold;">config_wsd.m:</span> <br>  f_dimension = 4096, net_dataset = 'pitts30k'; job_datasets = 'pitts30k';] <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/Ek_pRgVLbCRIpKO8Ja92eSgBhpCELMzZQtWMKQbj0SxaCg?e=DZ6rgz">vd16_pitts30k_to_pitts30k_4096_mdls.mat</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EqjYAVUIL5ROhsoFaovQkYQBWEgKp3eWYE6aiJW9M7090w?e=LPIy2t">data_test</a> <br> <a href="https://hkustconnect-my.sharepoint.com/:f:/g/personal/mumbhutta_connect_ust_hk/EuFuBFc0azlFrO_XzHJtH1UBKN3uPbQwVyUN82OhEOvbKg?e=rta29b">MAQBOOL</a> </td>
         </tr>
     </tbody>
 </table>
