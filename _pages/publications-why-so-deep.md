@@ -42,7 +42,7 @@ $$
 
 ### Thumbnails generating for top 5 results
 
-Open `<span style="font-weight: bold;">config_wsd.m:</span>` and ake `show_output = 1`.
+Open `config_wsd.m` and change `show_output = 1`.
 ### Download pre-computed files
 
 MAQBOOL Trained on TOKYOTM dataset. First 250 test samples are taken.
