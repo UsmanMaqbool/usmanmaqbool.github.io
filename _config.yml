@@ -104,7 +104,7 @@ author:
   name             : "Bhutta, Muhammad Usman Maqbool"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
   logo             : "/assets/images/logo.jpeg"
-  bio              : "PhD candidate at Robotics and Multi-Perception Lab (<a href='http://www.ram-lab.com' target='blank'>ram-lab.com</a>), HKUST, HK.<br> <b> I'm interested in: </b> <br> Multi-Robotics SLAM, Deep Learning for place recognition and automation, Entrepreneurship / Startups."
+  bio              : "<b>PhD</b> (HKUST-HK), <b>MPhil</b> (QAU-PK), <b>M.Sc.</b> (QAU-PK) and <b>B.Sc.</b>(BZU,PK). <br> <br>   <b> I'm interested in: </b> <br> Multi-Robotics SLAM, Deep Learning for place recognition and automation, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
   location         : "Robotics Institute, HKUST, Hong Kong"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
