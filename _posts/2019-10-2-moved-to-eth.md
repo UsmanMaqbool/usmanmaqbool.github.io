@@ -6,6 +6,7 @@ header:
   teaser: "/assets/images/eth-1.jpg"
 tags: 
   - Influencers Meetup
+  - Work
 permalink: /usman-maqbool-bhutta/started-research-at-autonomous-system-lab-eth-zurich
 
 last_modified_at: 2020-01-27T08:05:34-05:00
