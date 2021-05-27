@@ -106,7 +106,7 @@ author:
   logo             : "/assets/images/logo.jpeg"
   bio              : "<b>PhD</b> (HKUST-HK), <b>MPhil</b> (QAU-PK), <b>M.Sc.</b> (QAU-PK) and <b>B.Sc.</b>(BZU,PK). <br> <br>   <b> I'm interested in: </b> <br> Multi-Robotics SLAM, Deep Learning for place recognition and automation, Entrepreneurship / Startups."
   email            : "usmanmaqbool@outlook.com"
-  location         : "Robotics Institute, HKUST, Hong Kong"
+  location         : "C3 Robotics Laboratory, CUHK, Hong Kong"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
