@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bhutta, Muhammad Usman Maqbool"
+  name             : "Bhutta, Muhammad Usman Maqbool - PhD"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
   logo             : "/assets/images/logo.jpeg"
   bio              : "<b>PhD</b> (HKUST-HK), <b>MPhil</b> (QAU-PK), <b>M.Sc.</b> (QAU-PK) and <b>B.Sc.</b>(BZU,PK). <br> <br>   <b> I'm interested in: </b> <br> Mixed-Reality AR/VR, Multi-Robotics SLAM, Deep Learning, Entrepreneurship / Startups."
