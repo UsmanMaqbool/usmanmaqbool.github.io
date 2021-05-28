@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "contrast" # contrast "default", "air", "aqua", dark, "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "M Usman Maqbool Bhutta - Personal Website"
+title                    : "Dr. M. Usman Maqbool Bhutta - Personal Website"
 logo                     : "/assets/images/logo-3.png"
 
 title_separator          : "-"
-name                     : "M Usman Maqbool Bhutta"
+name                     : "M. Usman Maqbool Bhutta"
 description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is a roboticist and entrepreneur as well as an excellent robotics researcher. He is interested in Multi-agent system, Autonomous Car and machine learning as well as in flying Cars technology."
 url                      : "https://usmanmaqbool.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bhutta, Muhammad Usman Maqbool - PhD"
+  name             : "Dr. Muhammad Usman Maqbool BHUTTA"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
   logo             : "/assets/images/logo.jpeg"
   bio              : "<b>PhD</b> (HKUST-HK), <b>MPhil</b> (QAU-PK), <b>M.Sc.</b> (QAU-PK) and <b>B.Sc.</b>(BZU,PK). <br> <br>   <b> I'm interested in: </b> <br> Mixed-Reality AR/VR, Multi-Robotics SLAM, Deep Learning, Entrepreneurship / Startups."
