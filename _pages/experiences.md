@@ -8,10 +8,15 @@ toc_sticky: true
 ---
 
 ## Academic
-### OCT 19 – MAR 20 | Autonomous Systems Lab(ASL),ETH Zürich <img src="/assets/images/eth_asl.jpg" style="height: 45px;float: right;" alt="bzu multan Logo"  >
+
+### May 21 – Present | The Chinese University of Hong Kong, Hong Kong. <img src="/assets/images/cukh/logo.jpg" style="height: 45px;float: right;" alt="CUHK Logo"  >
+
+**Post:** Postdoc Fellow, C3 Robotics Lab,CUHK, Hong Kong
+<br>**Experience:** I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
+### OCT 19 – MAR 20 | Autonomous Systems Lab(ASL),ETH Zürich <img src="/assets/images/eth_asl.jpg" style="height: 45px;float: right;" alt="ASL ETH Logo"  >
 
 **Post:** Academic Guest, Autonomous Systems Lab(ASL),ETH Zürich, Switzerland
-<br>**Experience:** I've mainly work for the better place recogition using deep learning under the supervision of Dr. Cesar Cadena and Prof. Roland Siegwart. 
+<br>**Experience:** I mainly worked for the better place recogition using deep learning under the supervision of Dr. Cesar Cadena and Prof. Roland Siegwart. 
 
 ### OCT 15 – MAY 16 | Government PG College Sahiwal, Pakistan. <img src="/assets/images/gpgs.png" style="height: 45px;float: right;" alt="PG sahiwal Logo"  >
 **Post:** Lecture (CTI), Department of Physics, Government PG College Sahiwal, Pakistan
