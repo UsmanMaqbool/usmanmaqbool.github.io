@@ -5,7 +5,7 @@ search: true
 header:
   teaser: "/assets/images/cyber18/cover.png"
 tags: 
-  - Publications
+  - Publication
 last_modified_at: 2018-06-23T08:05:34-05:00
 ---
 

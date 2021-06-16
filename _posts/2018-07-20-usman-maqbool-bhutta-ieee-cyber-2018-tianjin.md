@@ -7,7 +7,7 @@ tags:
   - Talk
   - Featured in Media
   - Awards
-  - Publications
+  - Publication
 last_modified_at: 2018-07-25T08:05:34-05:00
 toc: true
 toc_sticky: true

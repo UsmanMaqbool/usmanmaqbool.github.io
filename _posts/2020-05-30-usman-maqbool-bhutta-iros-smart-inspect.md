@@ -5,7 +5,7 @@ search: true
 header:
   teaser: "/assets/images/publication/cover-smart-inspect.png"
 tags: 
-  - Publications
+  - Publication
 last_modified_at: 2020-10-30T08:05:34-05:00
 ---
 

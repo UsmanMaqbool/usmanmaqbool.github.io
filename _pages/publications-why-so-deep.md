@@ -6,7 +6,7 @@ sidebar:
     image: ../assets/images/maqbool/logo.png
     image_alt: "image"
     text: "Submitted for Publication"
-  - title: Other Research & Publications
+  - title: Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
 usemathjax: true
 ---

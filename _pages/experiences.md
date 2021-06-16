@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "6+ Years of Experiences"
-permalink: /experiences/
+title: "6+ Years of experience"
+permalink: /experience/
 author_profile: true
 toc: true
 toc_sticky: true

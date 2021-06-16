@@ -5,7 +5,7 @@ search: true
 header:
   teaser: "/assets/images/publication/cover-loop-box.png"
 tags: 
-  - Publications
+  - Publication
 last_modified_at: 2020-10-22T08:05:34-05:00
 ---
 

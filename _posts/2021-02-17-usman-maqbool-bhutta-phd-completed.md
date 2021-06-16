@@ -8,7 +8,7 @@ tags:
   - Talk
   - Featured in Media
   - Awards
-  - Publications
+  - Publication
 last_modified_at: 2021-02-17T08:03:30-05:00
 ---
 

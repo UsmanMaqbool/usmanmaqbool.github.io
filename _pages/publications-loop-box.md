@@ -6,7 +6,7 @@ sidebar:
     image: /assets/images/publication/loop-box-logo.png
     image_alt: "image"
     text: "2020" 
-  - title: Other Research & Publications
+  - title: Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"   
 ---
 
