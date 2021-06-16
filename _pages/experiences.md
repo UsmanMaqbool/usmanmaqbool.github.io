@@ -1,48 +1,79 @@
 ---
 layout: archive
-title: "6+ Years of Experience"
+title: "7+ Years of Experience"
 permalink: /experience/
 author_profile: true
 toc: true
 toc_sticky: true
 ---
 
-## Academic
+### Postdoc Fellow 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
+<img src="/assets/images/cuhk/logo.png" style="height: 70px;float: right;" alt="CUHK Logo"  >
 
-### May 21 – Present | The Chinese University of Hong Kong, Hong Kong. <img src="/assets/images/cuhk/logo.png" style="height: 45px;float: right;" alt="CUHK Logo"  >
+📅: May 21 – Present <br> 
+🌍: **C3 Robotics Lab**, The Chinese University of Hong Kong (CUHK), Hong Kong. <br>
+💼: I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
+### Academic Guest / Researcher 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
+<img src="/assets/images/eth_asl.jpg" style="height: 70px;float: right;" alt="ASL ETH Logo"  >
 
-**Post:** Postdoc Fellow, C3 Robotics Lab,CUHK, Hong Kong
-<br>**Experience:** I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
-### OCT 19 – MAR 20 | Autonomous Systems Lab(ASL),ETH Zürich <img src="/assets/images/eth_asl.jpg" style="height: 45px;float: right;" alt="ASL ETH Logo"  >
+📅: OCT 19 – MAR 20 <br>
+🌍: **Autonomous Systems Lab(ASL)**, ETH Zürich, Switzerland. <br>
+💼: I mainly worked for the better place recogition using deep learning under the supervision of Dr. Cesar Cadena and Prof. Roland Siegwart. 
 
-**Post:** Academic Guest, Autonomous Systems Lab(ASL),ETH Zürich, Switzerland
-<br>**Experience:** I mainly worked for the better place recogition using deep learning under the supervision of Dr. Cesar Cadena and Prof. Roland Siegwart. 
+### Chief Operating Officer (COO) 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Industry</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Operations</span>
+<img src="/assets/images/lisee.png" style="height: 35px;float: right;" alt="lisee Logo"  >
 
-### OCT 15 – MAY 16 | Government PG College Sahiwal, Pakistan. <img src="/assets/images/gpgs.png" style="height: 45px;float: right;" alt="PG sahiwal Logo"  >
-**Post:** Lecture (CTI), Department of Physics, Government PG College Sahiwal, Pakistan
-<br>**Experience:** Teaching Digital Electronics I, Digital Electronics II, Analog Electronics I and related labs.
+📅: Jan 18 – Jan 21  <br>
+🌍: **Lisee Technology Company Corporation Limited**, Hong Kong. <br>
+💼: Won funding support for company | TSSSU Support HK$ 300,000 (Jun 19 - May 20).<br> Indoor Navigation for Libray using Lisee Technology | PCF Support HK$ 160,000 (Jun 18 - May 19).
+
+### Lecture (Visiting) 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Teaching</span>
+<img src="/assets/images/bzu.png" style="height: 90px;float: right;" alt="BZU Logo"  >
+
+📅: Feb 16 – Jun 16 <br>
+🌍: **Department of Computer Science**, BZU-Sahiwal, Pakistan. <br>
+💼: Teaching MCS and BS-CS courses.
+### Lecture (CTI) 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Teaching</span>
+<img src="/assets/images/gpgs.png" style="height: 70px;float: right;" alt="PG sahiwal Logo"  >
+
+📅: OCT 15 – MAY 16 <br>
+🌍: **Department of Physics**, Government PG College Sahiwal, Pakistan. <br>
+💼: Teaching Digital Electronics I, Digital Electronics II, Analog Electronics I and related labs.
 Worked as Project Supervisor for Bachelors students.
+### Chief Executive Officer (CEO) 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Industry</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Operations</span>
+<img src="/assets/images/friends.png" style="height: 60px;float: right;" alt="friends Logo"  >
 
-### FALL 2010 | Quaid-i-Azam University, Islamabad, Pakistan. <img src="/assets/images/qau.png" style="height: 45px;float: right;" alt="qau Logo"  >
-**Post:** Instructor  
-<br>**Experience:** Teaching ‘PHP/MySQL Web Applications Development’ (a short course) offered in Department of Electronics, Quaid-i-Azam University, Islamabad, Pakistan
+📅: FEB 13 – AUG 15 <br>
+🌍: **Friends Corporate Technologies**, Islamabad, Pakistan. <br>
+💼: 50+ Projects | Electronics/ Electrical Engineering, R&D, image processing, Web Applications Development, MVC Applications.
+<br>**Further Details:** Being entrepreneur, I started this company ‘Friends Corporate Technologies’ in 2013.
 
+### Scientific Officer 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Industry</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
+<img src="/assets/images/government_of_pakistan.png" style="height: 85px;float: right;" alt="government_of_pakistan Logo"  >
 
-## Industry
+📅: MAY 12 - FEB 13 <br>
+🌍: **Federal Government of Pakistan**, Islamabad, Pakistan. <br>
+💼: Electronics / Electrical Engineering, R&D, image processing.
 
-### Jan 18 – Present | Lisee Technology Corporation Limited. <img src="/assets/images/lisee.png" style="height: 45px;float: right;" alt="lisee Logo"  >
-**Post:** Chief Operating Officer (COO) 
-<br>**Experience:** Won funding support for company | TSSSU Support HK$ 300,000 (Jun 19 - May 20).<br> Indoor Navigation for Libray using Lisee Technology | PCF Support HK$ 160,000 (Jun 18 - May 19).
+### Software Developer 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Industry</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Development</span>
+<img src="/assets/images/server4sale.png" style="height: 35px;float: right;" alt="server4sale Logo"  >
 
-### FEB 13 – AUG 15 | Friends Corporate Technologies. <img src="/assets/images/friends.png" style="height: 45px;float: right;" alt="friends Logo"  >
-**Post:** Chief Executive Officer (CEO) 
-<br>**Experience:** 50+ Projects | Electronics/ Electrical Engineering, R&D, image processing, Web Applications Development, MVC Applications.
-<br>**Further Details:** Being entrepreneur, I started my company ‘Friends Corporate Technologies’ in 2013.
+📅: DEC 09-MAR 10 <br>
+🌍: **Server4sale**, Islamabad, Pakistan. <br>
+💼: PHP, MVC, Joomla, Zend Framework using Eclipse IDE at Server4sale, LLC, G-10/2 Islamabad, Pakistan.
 
-### MAY 12 - FEB 13 | Federal Government of Pakistan.<img src="/assets/images/government_of_pakistan.png" style="height: 45px;float: right;" alt="government_of_pakistan Logo"  >
-**Post:** Scientific Officer
-<br>**Experience:** Electronics / Electrical Engineering, R&D, image processing.
+### Instructor | Quaid-i-Azam University, Islamabad, Pakistan. 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Teaching</span>
+<img src="/assets/images/qau.png" style="height: 85px;float: right;" alt="qau Logo"  >
 
-### DEC 09-MAR 10 | Server4sale, Islamabad, Pakistan.<img src="/assets/images/server4sale.png" style="height: 45px;float: right;" alt="server4sale Logo"  >
-**Post:** PHP Developer
-<br>**Experience:** MVC, Joomla, Zend Framework using Eclipse IDE at Server4sale, LLC, G-10/2 Islamabad, Pakistan.
+📅: FALL 2010 <br>
+🌍: **Department of Electronics**, Quaid-i-Azam University, Islamabad, Pakistan. <br>
+💼: Teaching ‘PHP/MySQL Web Applications Development’ (a short course)
