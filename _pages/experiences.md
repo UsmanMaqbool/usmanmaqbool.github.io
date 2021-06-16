@@ -9,7 +9,7 @@ toc_sticky: true
 
 ## Academic
 
-### May 21 – Present | The Chinese University of Hong Kong, Hong Kong. <img src="/assets/images/cukh/logo.jpg" style="height: 45px;float: right;" alt="CUHK Logo"  >
+### May 21 – Present | The Chinese University of Hong Kong, Hong Kong. <img src="/assets/images/cuhk/logo.png" style="height: 45px;float: right;" alt="CUHK Logo"  >
 
 **Post:** Postdoc Fellow, C3 Robotics Lab,CUHK, Hong Kong
 <br>**Experience:** I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
