@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Research & Publication"
+title: "✍️ Research & Publication"
 permalink: /publication/
 author_profile: true
 toc: true
