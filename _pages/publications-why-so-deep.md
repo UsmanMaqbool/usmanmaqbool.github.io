@@ -10,7 +10,7 @@ sidebar:
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
 usemathjax: true
 ---
-> **M Usman Maqbool Bhutta**, Yuxiang Sun and Ming Liu
+> **M Usman Maqbool Bhutta**
 > 
 > Under Review
 
