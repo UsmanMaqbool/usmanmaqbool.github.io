@@ -9,7 +9,8 @@ toc_sticky: true
 
 ### Postdoc Fellow 
 <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
-<img src="/assets/images/cuhk/logo.png" style="height: 70px;float: right;" alt="CUHK Logo"  >
+<img src="/assets/images/cuhk/c3.png" style="height: 70px;float: right;" alt="CUHK Logo"  ><img src="/assets/images/cuhk/logo.png" style="height: 70px;float: right;" alt="CUHK Logo"  >
+
 
 📅: May 21 – Present <br> 
 🌍: **C3 Robotics Lab**, The Chinese University of Hong Kong (CUHK), Hong Kong. <br>
@@ -70,7 +71,7 @@ Worked as Project Supervisor for Bachelors students.
 🌍: **Server4sale**, Islamabad, Pakistan. <br>
 💼: PHP, MVC, Joomla, Zend Framework using Eclipse IDE at Server4sale, LLC, G-10/2 Islamabad, Pakistan.
 
-### Instructor | Quaid-i-Azam University, Islamabad, Pakistan. 
+### Instructor
 <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Teaching</span>
 <img src="/assets/images/qau.png" style="height: 85px;float: right;" alt="qau Logo"  >
 
