@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "💼 7+ Years of Experience"
+title: "💼 Experience"
 permalink: /experience/
 author_profile: true
 toc: true
