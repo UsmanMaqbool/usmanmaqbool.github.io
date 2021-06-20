@@ -9,11 +9,12 @@ toc_sticky: true
 
 ### Postdoc Fellow 
 <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
-<img src="/assets/images/cuhk/c3.png" style="height: 70px;float: right;" alt="CUHK Logo"  ><img src="/assets/images/cuhk/logo.png" style="height: 70px;float: right;" alt="CUHK Logo"  >
+<img src="/assets/images/cuhk/c3.png" style="height: 70px;float: right;" alt="CUHK Logo"  ><img src="/assets/images/cuhk/logo.png" href="https://c3robolab.mae.cuhk.edu.hk/" style="height: 70px;float: right;" alt="CUHK Logo"  >
 
 
 📅: May 21 – Present <br> 
 🌍: **C3 Robotics Lab**, The Chinese University of Hong Kong (CUHK), Hong Kong. <br>
+(#39 in QS Global World Rankings 2022.) <br>
 💼: I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
 ### Academic Guest / Researcher 
 <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>

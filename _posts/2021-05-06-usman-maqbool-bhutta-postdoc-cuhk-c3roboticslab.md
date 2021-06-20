@@ -1,6 +1,6 @@
 ---
 title:  ":hong_kong: May 2021 &#124; Joined CUHK C3 Robotics Lab as Postdoc Fellow."
-excerpt: "I'm very pleased to start work with Prof. Darwin Lau's group at The Chinese University of Hong Kong, Hong Kong."
+excerpt: "I'm very pleased to start work with Prof. Darwin Lau's group at The Chinese University of Hong Kong (#39 in QS Global World Rankings 2022), Hong Kong."
 search: true
 header:
   teaser: "/assets/images/cuhk/CUHK_Shaw_Building.jpg"
@@ -9,8 +9,9 @@ tags:
   - Work
 last_modified_at: 2021-05-27T08:03:30-05:00
 ---
+I'm very pleased to start work with Prof. Darwin Lau's group at The Chinese University of Hong Kong (#39 in QS Global World Rankings 2022), Hong Kong.
 
-I will be working to several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.
+I will be working to several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions at C3 Robotics Lab, Chinese University Robotics Institute (CURI), CUHK.
 
 
 <figure>
