@@ -44,7 +44,7 @@ By: Xinyan Zhao (CSE), Sabrina Lam (MAE), Dr. M. Usman M. Bhutta (MAE), Prof. Da
 ### Video
 
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UYgLPpUbaow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d-8TBVLfqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -65,5 +65,5 @@ By: Ken Hui (CSE), Ken Kwok (MAE), Dr. M. Usman M. Bhutta (MAE), Prof. Darwin La
 ### Video
 
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d-8TBVLfqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYgLPpUbaow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
