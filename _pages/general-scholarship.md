@@ -22,7 +22,7 @@ Make a list of all the relevent Profs. and write your `Research Statement` accor
 >
 > Why: Because usually Profs. have fundings related to their **recent** projects. In this manner, they are likely to reply you.
  
-## Email:
+## Email
 1. Email you CV + Cover letter + Research statement to the Prof.
 2. If you didnt get any reply, send them reminder after a week.
 
