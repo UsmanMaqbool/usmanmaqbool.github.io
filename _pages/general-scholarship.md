@@ -15,7 +15,7 @@ Author: [M. Usman Maqbool Bhutta](https://usmanmaqbool.github.io/)
 
 ## List All Professors
 Make a list of all the relevent Profs. and write your `Research Statement` according to the **Target Prof.'s Research Interest**
-> This is the most important part, which actually students dont case before sending any email to the target Prof.
+> This is the most important part, which actually students dont care before sending any email to the target Prof.
 > To Write Reserach Statement:
 > * **Read** at least 3-4 papers of the target Prof. and check his recent research directions.
 > * **Align** your previous work to the Prof. research directions. 
@@ -34,7 +34,7 @@ In that case, try HK ([HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)), Japan
 
 ## Funding Problem
 Only if Prof. show interests from top university (oxford/Cambridge/ETH etc). Tell them you can arrage fundings.
-Try grab using [CMMS-PEEF](https://peef.org.pk/cmms) Scholarship.
+You can easily grab funding using [CMMS-PEEF](https://peef.org.pk/cmms) Scholarship.
 
 > PROS: You can get degree from Top university.
 > 
@@ -44,7 +44,7 @@ Try grab using [CMMS-PEEF](https://peef.org.pk/cmms) Scholarship.
 Usually between July-Sept is the ideal time to contact.
 
 ## Useful link for scholarship news / help
-Scholarship Network at Facebook [Link](https://www.facebook.com/groups/scholarships.pk)
+Scholarship Network at Facebook [[Link](https://www.facebook.com/groups/scholarships.pk)]
 
 ## Top University Matters?
 Yes, you are likely to get higher salary.
