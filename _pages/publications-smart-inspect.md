@@ -1,5 +1,5 @@
 ---
-title: "Project Website - Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation"
+title: "Project Website | Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation"
 permalink: /smart-inspect
 sidebar:
   - title: "Smart-Inspect"
