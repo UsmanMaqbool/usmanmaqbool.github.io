@@ -1,27 +1,23 @@
 ---
-title: "Project Website - Why-So-Deep"
+title: "Project Website - Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
 permalink: /why-so-deep
 sidebar:
   - title: "MAQBOOL"
     image: ../assets/images/maqbool/logo.png
     image_alt: "image"
-    text: "Submitted for Publication"
+    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
   - title: Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
 usemathjax: true
 ---
 
-# Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition
+> M Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu
 
-> **M Usman Maqbool Bhutta**
-> 
-> Under Review
+> **Under Review**
 
-**Important Links:** [Github](https://github.com/usmanmaqbool/maqbool) \|  [Bibtex](#citation)
+## Source Code
 
-## Installation
-
-For installation, please follow our [Github](https://github.com/usmanmaqbool/maqbool) page.
+Please follow our [Github](https://github.com/usmanmaqbool/maqbool) page.
 ## Results
 
 ### Results files for ploting
@@ -95,8 +91,3 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
     </tbody>
 </table>
 
-
-
-## Citation 
-
-#TODO
