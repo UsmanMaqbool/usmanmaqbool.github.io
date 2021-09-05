@@ -27,13 +27,13 @@ sidebar:
 ## BibTeX
 [BibTeX](/assets/bibtex/loop-box.bib)
 {% raw %}
-```
+```bib
 @article{bhutta2020loopbox,
 	title={{Loop-Box: Multiagent} Direct {SLAM} Triggered by Single Loop Closure for Large-Scale Mapping}, 
 	author={M. U. M. {Bhutta} and M. {Kuse} and R. {Fan} and Y. {Liu} and M. {Liu}},
 	journal={IEEE Transactions on Cybernetics},
 	year={2020},
-	doi={10.1109/TCYB.2020.3027307}},
+	doi={10.1109/TCYB.2020.3027307},
 	pages={1-10}
 }
 ```
