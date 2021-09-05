@@ -1,5 +1,5 @@
 ---
-title: "Project Website - Why-So-Deep : Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
+title: "Project Website - Why-So-Deep"
 permalink: /why-so-deep
 sidebar:
   - title: "MAQBOOL"
@@ -10,6 +10,9 @@ sidebar:
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
 usemathjax: true
 ---
+
+# Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition
+
 > **M Usman Maqbool Bhutta**
 > 
 > Under Review
