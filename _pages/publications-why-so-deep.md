@@ -1,5 +1,5 @@
 ---
-title: "Why-So-Deep : Image Correspondence Verification by Probabilistic Spatial Landmarks Elevation for Visual Place Recognition"
+title: "Project Website - Why-So-Deep : Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
 permalink: /why-so-deep
 sidebar:
   - title: "MAQBOOL"

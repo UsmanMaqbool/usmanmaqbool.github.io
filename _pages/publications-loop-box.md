@@ -1,5 +1,5 @@
 ---
-title: "Loop-box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping"
+title: "Project Website - Loop-box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping"
 permalink: /loop-box
 sidebar:
   - title: "Loop-box"
