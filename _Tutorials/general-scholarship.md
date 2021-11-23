@@ -1,7 +1,7 @@
 ---
-#layout: collection
 title: "🎓 Keys to Secure a Scholarship"
 permalink: /keys-to-secure-a-scholarship/
+toc: true
 ---
 Author: [M. Usman Maqbool Bhutta](https://usmanmaqbool.github.io/)
 

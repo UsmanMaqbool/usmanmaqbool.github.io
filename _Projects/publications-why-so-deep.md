@@ -1,5 +1,5 @@
 ---
-title: "Project Website | Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
+title: "Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
 permalink: /why-so-deep
 sidebar:
   - title: "MAQBOOL"
