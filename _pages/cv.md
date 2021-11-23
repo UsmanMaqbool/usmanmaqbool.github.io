@@ -9,7 +9,7 @@ toc: true
 
 Hi :smile:.
 
-Will be updated soon.
+Will be updated soon. Meanwhile you can [view](/assets/cv.pdf) the pdf of my CV.
 
 ##### Education
 
