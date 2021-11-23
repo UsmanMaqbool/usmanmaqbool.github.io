@@ -12,23 +12,25 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # contrast "default", "air", "aqua", dark, "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Dr. M. Usman Maqbool Bhutta - Personal Website"
-logo                     : "/assets/images/logo-3.png"
-
 title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "M. Usman Maqbool Bhutta"
 description              : "Its all about M Usman Maqbool Bhutta. Living in Hong Kong. He is a roboticist and entrepreneur as well as an excellent robotics researcher. He is interested in Multi-agent system, Autonomous Car and machine learning as well as in flying Cars technology."
-url                      : "https://usmanmaqbool.github.io" # the base hostname & protocol for your site e.g. 
+url                      : "https://usmanmaqbool.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : UsmanMaqbool/usmanmaqbool.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/logo-3.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -38,29 +40,27 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true #, false (default)
-search_full_content      : true # , false (default)
+  hide                   : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -93,7 +93,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : UA-121333621-1
     anonymize_ip         : # true, false (default)
@@ -102,11 +102,11 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Muhammad Usman Maqbool BHUTTA"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. 
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   logo             : "/assets/images/logo.jpeg"
   bio              : "<b>PhD</b> (HKUST-HK), <b>MPhil</b> (QAU-PK), <b>M.Sc.</b> <br> (QAU-PK) and <b>B.Sc.</b>(BZU,PK). <br style='margin-bottom: 10px;'> <b> Email: </b> usmanmaqbool(AT)outlook(DOT)com <br style='margin-bottom: 10px;'> <b> Worked: 🇵🇰 🇭🇰 🇨🇭 <br style='margin-bottom: 10px;'> <b>Signal: </b> (+852) 609 44 786 <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> <br> Mixed-Reality, Multi-Robotics, Place Recognition, Automation, Entrepreneurship / Startups. <br>"
+  location         : "C3RL, CUHK, Hong Kong"
   email            : "usmanmaqbool@outlook.com"
-  location         : "C3 Robotics Laboratory, CUHK, Hong Kong"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -119,7 +119,6 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "realusmanmaqbool"
   lastfm           :
   linkedin         : "usmanmaqbool" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -132,6 +131,48 @@ author:
   weibo            :
   xing             :
   youtube          : "https://youtube.com/channel/UCLQDiJdu70ptPHS_ws1Pcfw"
+  instagram        : "realusmanmaqbool"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
@@ -159,6 +200,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
@@ -194,7 +236,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
@@ -203,15 +245,15 @@ paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-emoji_dir: "https://github.githubassets.com/images/icons/emoji"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
-  
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -219,8 +261,8 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
-
 
 # Archives
 #  Type
@@ -230,11 +272,11 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-# category_archive:
-#   type: liquid
-#   path: /categories/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
@@ -243,9 +285,10 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-layout: widen
-classes:
-  - wide
+#   layouts:
+#layout: widen
+#classes:
+#  - wide
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
@@ -254,12 +297,16 @@ classes:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
 
+collections:
+  Tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -285,3 +332,12 @@ defaults:
       read_time: false
       author_profile: false
       comments: false    
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
