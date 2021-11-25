@@ -9,13 +9,16 @@ toc: true
 
 Hi :smile:.
 
-Will be updated soon. Meanwhile you can [**Download**](/assets/cv.pdf) the pdf of my CV.
+It will be updated soon. Meanwhile you can [**Download**](/assets/cv.pdf) the pdf of my CV.
+
+-------------
 
 ##### Education
 
 
 ##### Experience
 
+<!--
 Postdoctoral Research Fellow | 📅: May 21 – Present
 ---------------------------------------|---------
 🌍: C3 Robotics [(C3RL)](https://c3robolab.mae.cuhk.edu.hk/team/), Department of Mechanical and Automation Engineering| **CUHK**, Hong Kong 
@@ -121,6 +124,7 @@ Worked as Project Supervisor for Bachelors students.
 🌍: **Department of Electronics**, Quaid-i-Azam University, Islamabad, Pakistan. <br>
 💼: Teaching ‘PHP/MySQL Web Applications Development’ (a short course)
 
+-->
 ##### Research
 
 ##### Awards
