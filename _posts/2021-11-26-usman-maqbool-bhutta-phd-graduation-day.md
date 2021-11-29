@@ -5,10 +5,8 @@ search: true
 header:
   teaser: "/assets/images/phd-defence/cover.jpg"
 tags: 
-  - Talk
   - Featured in Media
   - Awards
-  - Publication
 last_modified_at: 2021-11-27T08:03:30-05:00
 ---
 
