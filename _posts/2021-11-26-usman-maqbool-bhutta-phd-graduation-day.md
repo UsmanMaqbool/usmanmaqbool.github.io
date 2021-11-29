@@ -7,6 +7,8 @@ header:
 tags: 
   - Featured in Media
   - Awards
+  - Influencers Meetup
+toc: true
 last_modified_at: 2021-11-27T08:03:30-05:00
 ---
 
@@ -59,7 +61,7 @@ The best feeling in the world is knowing my family and friends are smiling becau
 {: .notice--info}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yW5PbaFcnSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## PhD Thesis Presentation
+## About PhD Thesis Presentation
 
 **Thesis Title:**
 TOWARDS A SWIFT MULTIAGENT SLAM SYSTEM FOR LARGE-SCALE ROBOTICS APPLICATIONS
