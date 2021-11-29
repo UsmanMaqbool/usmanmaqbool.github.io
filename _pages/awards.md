@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## INTERNATIONAL
 
+July, 2021 | [**Educational Technology Innovation: Gold Award** and **Pedagogical Innovation: Silver Award**](/usman-maqbool-bhutta-mixed-reality-poster-award-cuhk-robotics/), The Teaching and Learning Innovation Expo, CUHK, 2021, Hong Kong |
 July, 2018 | [**Best Student Paper Finalist Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta-ieee-cyber-2018-tianjin/#award), IEEE Int. Conf. on CYBER Technology in Automation, Control, and Intelligent Systems, Tianjin, China |
 May, 2018 | [**Best Proposal Audience Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/won-audience-award-at-HKUST-HK), Campus Challenge - Transportation, HKUST HKUST, HK |
 Nov, 2017 | [**Best Mapper Award**](https://usmanmaqbool.github.io/usman-maqbool-bhutta/received-best-mapper-award-by-ram-lab#award), Robotics and Multi-Perception Lab, HKUST Shenzhen, China |
