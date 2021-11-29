@@ -25,7 +25,8 @@ We presented two posters in this events.
  * [Online Robotics Laboratory Framework for Interactive and Hands-On Learning.](#online-robotics-laboratory-framework-for-interactive-and-hands-on-learning)
 
 ## Award
-We've won :trophy: **Gold Award** for our mixed-reality work. Our second poster also got  :trophy: **finalist award** in this expo.
+We've won :trophy: **Educational Technology Innovation: Gold Award** for our mixed-reality work. Our second poster also got  :trophy: **Pedagogical Innovation: Silver Award** in this expo.
+[Link](https://www.cuhk.edu.hk/eLearning/expo2021/poster-awards/)
 
 
 ## Mixed Reality in Hands-On Learning of Robotics
