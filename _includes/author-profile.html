@@ -64,6 +64,8 @@
         </li>
       {% endif %}
 
+      {% include author-profile-custom-links.html %}
+      
       {% if author.twitter %}
         <li>
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
@@ -240,7 +242,7 @@
         </li>
       {% endif %}
 
-      {% include author-profile-custom-links.html %}
+      
     </ul>
   </div>
 </div>
