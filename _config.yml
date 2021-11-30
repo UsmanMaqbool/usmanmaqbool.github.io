@@ -104,7 +104,7 @@ author:
   name             : "Dr. Muhammad Usman Maqbool BHUTTA"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   logo             : "/assets/images/logo.jpeg"
-  bio              : "<b> Roboticist </b>&#124;<b> Entrepreneur </b><br style='margin-bottom: 10px;'> <b>PhD</b> (Robotics and AI), <b>MPhil</b> (Image Processing and Communication), <b>M.Sc.</b> (Electronics) and <b>B.Sc.</b>(Mathematics and Physics). <br style='margin-bottom: 10px;'> <b> Worked: </b> 🇵🇰 🇭🇰 🇨🇭 <!-- <br style='margin-bottom: 10px;'> <b> Email: </b> usmanmaqbool(AT)outlook(DOT)com  <br style='margin-bottom: 10px;'> <b> Signal: </b> (+852) 609 44 786 --> <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> Multi-Agent SLAM, Collaborative 3D Mapping, Visual Place Recognition, Robotic Inspection, AR/VR, Startups."
+  bio              : "<b> Roboticist </b>&#124;<b> Entrepreneur </b><br style='margin-bottom: 10px;'> <b>PhD</b> (Robotics and AI), <b>MPhil</b> (Image Processing and Communication), <b>M.Sc.</b> (Electronics) and <b>B.Sc. </b>(Mathematics and Physics). <br style='margin-bottom: 10px;'> <b> Worked: </b> 🇵🇰 🇭🇰 🇨🇭 <!-- <br style='margin-bottom: 10px;'> <b> Email: </b> usmanmaqbool(AT)outlook(DOT)com  <br style='margin-bottom: 10px;'> <b> Signal: </b> (+852) 609 44 786 --> <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> Multi-Agent SLAM, Collaborative 3D Mapping, Visual Place Recognition, Robotic Inspection, AR/VR, Startups."
   location         : "C3RL, CUHK, Hong Kong"
   email            : "usmanmaqbool@outlook.com"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
