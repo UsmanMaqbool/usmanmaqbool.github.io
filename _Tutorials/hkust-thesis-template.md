@@ -1,5 +1,5 @@
 ---
-title: "🎓 HKUST PhD Thesis Latex Template"
+title: "🎓 HKUST PhD / MPhil Thesis Latex Template"
 permalink: /hkust-phd-thesis-template-in-latex/
 toc: true
 ---
