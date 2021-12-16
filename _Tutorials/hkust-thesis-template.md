@@ -1,6 +1,6 @@
 ---
 title: "🎓 HKUST PhD / MPhil Thesis Latex Template"
-permalink: /hkust-phd-thesis-template-in-latex/
+permalink: /hkust-phd-mphil-thesis-template-in-latex/
 toc: true
 ---
 Author: [M. Usman Maqbool Bhutta](https://usmanmaqbool.github.io/)
