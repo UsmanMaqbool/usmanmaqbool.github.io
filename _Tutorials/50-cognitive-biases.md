@@ -1,5 +1,5 @@
 ---
-title: ":bulb: 50 Types of Common Cognitive Biases"
+title: "💡 50 Types of Common Cognitive Biases"
 permalink: /50-cognitive-biases-to-be-aware-of-so-you-can-be-the-very-best-version-of-you/
 toc: true
 ---
