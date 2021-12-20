@@ -5,6 +5,11 @@ toc: true
 ---
 Credits: [TitleMax](https://www.titlemax.com/discovery-center/lifestyle/50-cognitive-biases-to-be-aware-of-so-you-can-be-the-very-best-version-of-you/)
 
+<p align="left">
+  <br>
+  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
+</p>
+
 ## What Is Cognitive Bias?
 
 Let’s start off with a **basic cognitive bias** definition: It is a systematic error in cognitive processes (like thinking, perceiving, and memory) diverging from rationality, which can affect judgments. If we think of the human brain as a computer, cognitive bias basically is an error in the code, making us perceive the input differently or come up with an output that’s illogical.
