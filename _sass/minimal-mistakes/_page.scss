@@ -333,15 +333,16 @@ body {
   margin-bottom: 8px;
   padding: 1px 7px;
   text-decoration: none;
-  background-color: royalblue;
-  color: white;
+  color: $link-color-hover;
+  background-color:aliceblue;
   // border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
   font-size: 14px;
   &:hover {
     text-decoration: none;
-    color: $link-color-hover;
-    background-color:aliceblue;
+    background-color: royalblue;
+    color: white;
+    
   }
 }
 

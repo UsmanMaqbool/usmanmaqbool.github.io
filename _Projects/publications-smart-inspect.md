@@ -1,19 +1,27 @@
 ---
 title: "Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation"
 permalink: /smart-inspect
+description: Smart-Inspect - Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation by M. Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao Jiao and Ming Liu.
+header:
+  teaser: /assets/images/publication/smart-inspect-logo.png"
+last_modified_at: 2020-09-17T08:03:30-05:00
+toc: true
 sidebar:
   - title: "Smart-Inspect"
     image: /assets/images/publication/smart-inspect-logo.png
-    image_alt: "image"
-    text: "2020" 
+    image_alt: "smartphone glass inspection"
+    text: "Tags  <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Glass Inspection</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Machine Learning</span>" 
   - title: Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"
+
 ---
 
 
-> **M Usman Maqbool Bhutta**, Shoaib Aslam, Peng Yun, Jianhao Jiao and Ming Liu
-> 
-> Published in IROS 2020.
+> Published in IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS, 2020.
+>
+> Authors: **M Usman Maqbool Bhutta**, Shoaib Aslam, Peng Yun, Jianhao Jiao and Ming Liu
+
+## Introduction 
 
 **Important Links:** [arXiv](https://arxiv.org/abs/2010.00741) \| [Video](#video) \|  [Bibtex](#bibtex)
 
@@ -31,10 +39,10 @@ sidebar:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYuSfzzmRS0 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## BibTeX
-[BibTeX Download](/assets/bibtex/smart-inspect.bib)
+[Save BibTeX](/assets/bibtex/smart-inspect.bib)
 {% raw %}
 ```bib
-@inproceedings{bhutta2020,
+@inproceedings{SmartInspectBhutta,
 	title={{Smart-Inspect: Micro} Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation},
   author={M. U. M. {Bhutta} and S. {Aslam} and P. {Yun} and J. {Jiao} and M. {Liu}},
 	booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2020},
