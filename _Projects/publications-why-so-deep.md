@@ -1,23 +1,43 @@
 ---
 title: "Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
 permalink: /why-so-deep
+description: Why-So-Deep - Towards Boosting Previously Trained Models for Visual Place Recognition.
+header:
+  teaser: "/assets/images/maqbool/logo.png"
 sidebar:
   - title: "MAQBOOL"
-    image: ../assets/images/maqbool/logo.png
-    image_alt: "image"
-    text: "[Github](https://github.com/usmanmaqbool/maqbool)"
-  - title: Other Research & Publication
-    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)" 
+    image: /assets/images/maqbool/logo.png
+    image_alt: "loop-box-multi-agent-slam"
+    text: "Tags: <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Place Recognition</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Image Retrieval</span>" 
+  - title: My Other Research & Publication
+    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
+toc: true
 usemathjax: true
+last_modified_at: 2021-12-22T08:03:30-05:00
+
 ---
 
-> M Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu
+> Accepted for publication in the IEEE Robotics and Automation Letters (RA-L).
+>
+> Authors: **M. Usman Maqbool Bhutta**, Yuxiang Sun, Darwin Lau, Ming Liu
 
-> **Under Review**
+## Introduction 
+
+<a class="page__taxonomy-item " href="#">arXiv</a> \| 
+<a class="page__taxonomy-item " href="#video">Video</a> \| 
+<a class="page__taxonomy-item " href="#bibtex">BibTeX</a>
+
+
 
 ## Source Code
 
-Please follow our [Github](https://github.com/usmanmaqbool/maqbool) page.
+Please follow our [:octocat: Github](https://github.com/usmanmaqbool/maqbool) page.
+<p align="center">
+  ⭐️ If you like this repository, give it a star on GitHub! ⭐️
+  <br>
+  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
+  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
+</p>
 ## Results
 
 ### Results files for ploting
