@@ -1,7 +1,7 @@
 ---
 title: "Loop-box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping"
 permalink: /loop-box
-description: Loop-box - Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping by M. Usman Maqbool Bhutta, Manohar Kuse, RuiFan, Yanan Liu and Ming Liu.
+description: IEEE Transactions on Cybernetics, 2020 (IF 11+). Authors are M. Usman Maqbool Bhutta, Manohar Kuse, RuiFan, Yanan Liu and Ming Liu.
 header:
   teaser: "/assets/images/publication/loop-box-logo.png"
 sidebar:
