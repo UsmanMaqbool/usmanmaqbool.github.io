@@ -1,16 +1,22 @@
 ---
 title: "Loop-box: Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping"
 permalink: /loop-box
+description: Loop-box - Multiagent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping by M. Usman Maqbool Bhutta, Manohar Kuse, RuiFan, Yanan Liu and Ming Liu.
+header:
+  teaser: "/assets/images/publication/loop-box-logo.png"
 sidebar:
   - title: "Loop-box"
     image: /assets/images/publication/loop-box-logo.png
-    image_alt: "image"
-    text: "2020" 
-  - title: Other Research & Publication
+    image_alt: "loop-box-multi-agent-slam"
+    text: "Tags: <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>mutliagent SLAM</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>3D Mapping</span>" 
+  - title: My Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
+toc: true
 ---
 
-> **M Usman Maqbool Bhutta**, Manohar Kuse, RuiFan, Yanan Liu, Ming Liu
+## Introduction
+
+> Authors: **M. Usman Maqbool Bhutta**, Manohar Kuse, RuiFan, Yanan Liu, Ming Liu
 > 
 > Published in IEEE Transactions on Cybernetics (IF: 11+)
 
@@ -25,7 +31,7 @@ sidebar:
 
 
 ## BibTeX
-[BibTeX](/assets/bibtex/loop-box.bib)
+[Save BibTeX](/assets/bibtex/loop-box.bib)
 {% raw %}
 ```bib
 @article{bhutta2020loopbox,
