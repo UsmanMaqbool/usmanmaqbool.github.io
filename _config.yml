@@ -83,13 +83,19 @@ facebook:
   username               : realusmanmaqbool
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/profile.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/MUsmanMBhutta"
+    - "https://www.facebook.com/realusmanmaqbool"
+    - "https://www.youtube.com/channel/UCLQDiJdu70ptPHS_ws1Pcfw"
+    - "https://www.instagram.com/realusmanmaqbool/"  
+    - "https://github.com/usmanmaqbool"
+    - "https://www.linkedin.com/in/usmanmaqbool/"
 
 # Analytics
 analytics:
@@ -240,7 +246,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
+permalink: /:slug/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
