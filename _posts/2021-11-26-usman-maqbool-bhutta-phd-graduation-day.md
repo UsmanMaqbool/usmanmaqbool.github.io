@@ -14,6 +14,19 @@ last_modified_at: 2021-11-27T08:03:30-05:00
 
 The best feeling in the world is knowing my family and friends are smiling because of me, so that I would like to say thank you my parents and love ones who support me, ♥️ I couldn’t have done it without support of my supervisor. I'm very thankful PEEF Pakistan for their PhD scholarship.
 
+This page test the {% icon check %} gem. It also supports different {% icon alarm_on two-tone %} styles {% icon aspect_ratio round %}.
+
+📁 [HKUST 29th Congregation 2021 Booklet](/assets/pdf/HKUST_29th_Congregation_2021.pdf)
+
+## Video 
+
+{: .notice--info}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yW5PbaFcnSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## Memorable Glimpses 
+
 <figure>
     <a href="/assets/images/phd-defence/grad4.jpg"><img src="/assets/images/phd-defence/grad4.jpg"></a>
     <figcaption>Location: Near Red Bird, HKUST.</figcaption>
@@ -56,10 +69,7 @@ The best feeling in the world is knowing my family and friends are smiling becau
     <figcaption>Location: HKUST Outlook near Red Bird</figcaption>
 </figure>
 
-## Video 
 
-{: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yW5PbaFcnSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## About PhD Thesis Presentation
 
