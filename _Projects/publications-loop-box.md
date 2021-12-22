@@ -12,13 +12,15 @@ sidebar:
   - title: My Other Research & Publication
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
 toc: true
+last_modified_at: 2020-02-17T08:03:30-05:00
+
 ---
 
-## Introduction
-
+> Published in IEEE Transactions on Cybernetics, 2020 (IF: 11+).
+>
 > Authors: **M. Usman Maqbool Bhutta**, Manohar Kuse, RuiFan, Yanan Liu, Ming Liu
-> 
-> Published in IEEE Transactions on Cybernetics (IF: 11+)
+
+## Introduction 
 
 **Important Links:** [arXiv](https://arxiv.org/abs/2009.13851) \| [Video](#video) \|  [Bibtex](#bibtex)
 
@@ -34,7 +36,7 @@ toc: true
 [Save BibTeX](/assets/bibtex/loop-box.bib)
 {% raw %}
 ```bib
-@article{bhutta2020loopbox,
+@article{loopboxBhutta,
 	title={{Loop-Box: Multiagent} Direct {SLAM} Triggered by Single Loop Closure for Large-Scale Mapping}, 
 	author={M. U. M. {Bhutta} and M. {Kuse} and R. {Fan} and Y. {Liu} and M. {Liu}},
 	journal={IEEE Transactions on Cybernetics},
