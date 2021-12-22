@@ -261,10 +261,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
-#  - jekyll-scholar
+  - jekyll-scholar
 #  - jekyll-material-icon-tag
-# scholar:
-#  style: ieee-with-url
+scholar:
+  style: ieee-with-url
 
 # mimic GitHub Pages with --safe
 whitelist:
