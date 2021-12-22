@@ -1,7 +1,7 @@
 ---
 title: "Smart-Inspect: Micro Scale Localization and Classification of Smartphone Glass Defects for Industrial Automation"
 permalink: /smart-inspect
-description: Published in IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS, 2020. Authors are M. Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao Jiao and Ming Liu.
+description: M. Usman Maqbool Bhutta et al., In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2860-2865. IEEE, 2020.
 header:
   teaser: /assets/images/publication/smart-inspect-logo.png"
 last_modified_at: 2020-09-17T08:03:30-05:00
@@ -15,7 +15,6 @@ sidebar:
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"
 
 ---
-
 
 > Published in IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS, 2020.
 >

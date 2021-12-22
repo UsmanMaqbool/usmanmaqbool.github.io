@@ -1,7 +1,7 @@
 ---
 title: "Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition"
 permalink: /why-so-deep
-description: IEEE Robotics and Automation Letters (RA-L), 2022. Authors are M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu
+description: M. Usman Maqbool Bhutta et al., IEEE Robotics and Automation Letters (RA-L), 2022.
 header:
   teaser: "/assets/images/maqbool/logo.png"
 sidebar:
