@@ -3,7 +3,7 @@ title: "Smart-Inspect: Micro Scale Localization and Classification of Smartphone
 permalink: /smart-inspect
 description: M. Usman Maqbool Bhutta et al., In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2860-2865. IEEE, 2020.
 header:
-  teaser: /assets/images/publication/smart-inspect-logo.png"
+  teaser: /assets/images/publication/smart-inspect-logo.png
 last_modified_at: 2020-09-17T08:03:30-05:00
 toc: true
 sidebar:
