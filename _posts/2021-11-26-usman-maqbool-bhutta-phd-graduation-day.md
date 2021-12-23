@@ -14,7 +14,8 @@ last_modified_at: 2021-11-27T08:03:30-05:00
 
 The best feeling in the world is knowing my family and friends are smiling because of me, so that I would like to say thank you my parents and love ones who support me, ♥️ I couldn’t have done it without support of my supervisor. I'm very thankful PEEF Pakistan for their PhD scholarship.
 
-📁 [HKUST 29th Congregation 2021 Booklet](/assets/pdf/HKUST_29th_Congregation_2021.pdf)
+
+[:ledger: HKUST 29th Congregation 2021 Booklet](/assets/pdf/HKUST_29th_Congregation_2021.pdf)
 
 ## Video 
 
