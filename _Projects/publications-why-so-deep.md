@@ -14,7 +14,6 @@ sidebar:
 toc: true
 usemathjax: true
 last_modified_at: 2021-12-22T08:03:30-05:00
-
 ---
 
 > Accepted for publication in the IEEE Robotics and Automation Letters (RA-L).

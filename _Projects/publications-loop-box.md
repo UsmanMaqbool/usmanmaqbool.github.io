@@ -13,7 +13,6 @@ sidebar:
     text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
 toc: true
 last_modified_at: 2020-02-17T08:03:30-05:00
-
 ---
 
 > Published in IEEE Transactions on Cybernetics, 2020 (IF: 11+).
