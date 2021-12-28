@@ -5,9 +5,28 @@ permalink: /publication/
 author_profile: true
 toc: true
 toc_sticky: true
----
-## SLAM
+toc_icon: "folder-open" 
+toc_label: "Table of Contents"
 
+---
+
+## Deep Learning
+
+### Visual Place Recognition
+
+#### 2022
+
+- <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span> <span class='keywords' rel='tag'>Deep Learning</span><br>
+ M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, IEEE Robotics and Automation Letters (RA-L), 2022. <!--<a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='../why-so-deep#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a><br>
+<i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='../why-so-deep'><i class="fas fa-globe-asia"></i> Project Website</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a>  -->
+<br>
+
+<figure>
+    <a href="/assets/images/maqbool/front-new.png"><img src="/assets/images/maqbool/front-new.png" style="height: 250px;display: block; margin-left: 17%;" alt="why-so-deep-bhutta"  ></a>
+</figure>
+
+## SLAM
+  
 ### Multiagent SLAM
 
 #### 2020

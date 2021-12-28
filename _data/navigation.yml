@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "News Feed"
+  - title: "Home"
     url: /
   - title: "All Posts"
     url: /year-archive/
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /publication/
   - title: "Blog"
     url: /collection-archive/

@@ -5,27 +5,28 @@ description: M. Usman Maqbool Bhutta et al., IEEE Robotics and Automation Letter
 header:
   teaser: "/assets/images/maqbool/logo.png"
 sidebar:
-  - title: "MAQBOOL"
+  - title: "Why-So-Deep (MAQBOOL)"
     image: /assets/images/maqbool/logo.png
     image_alt: "loop-box-multi-agent-slam"
-    text: "Tags: <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Place Recognition</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Image Retrieval</span>" 
-  - title: My Other Research & Publication
-    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
-toc: true
+    text: "Keywords: <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span>" 
+  - title: ""
+    text: "<i class='far fa-bookmark'></i> : <a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a> <a class='page__taxonomy-item ' href='#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a>"  
 usemathjax: true
 last_modified_at: 2021-12-22T08:03:30-05:00
+toc: true
+#toc_label: "Unique Title"
+toc_icon: "folder-open" 
+toc_sticky: true
 ---
 
 > Accepted for publication in the IEEE Robotics and Automation Letters (RA-L).
 >
 > Authors: **M. Usman Maqbool Bhutta**, Yuxiang Sun, Darwin Lau, Ming Liu
 
-## Introduction 
+## Abstract 
 
-<a class="page__taxonomy-item " href="#">arXiv</a> \| 
-<a class="page__taxonomy-item " href="#video">Video</a> \| 
-<a class="page__taxonomy-item " href="#bibtex">BibTeX</a>
-
+Abstract goes here.
+{: .notice--info}
 
 
 ## Source Code

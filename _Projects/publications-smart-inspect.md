@@ -10,9 +10,9 @@ sidebar:
   - title: "Smart-Inspect"
     image: /assets/images/publication/smart-inspect-logo.png
     image_alt: "smartphone glass inspection"
-    text: "Tags  <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Glass Inspection</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>Machine Learning</span>" 
-  - title: Other Research & Publication
-    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"
+    text: "Keywords: <span class='keywords' rel='tag'>Glass Inspection</span> <span class='keywords' rel='tag'>Machine Learning</span>" 
+#  - title: Other Research & Publication
+#    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"
 ---
 
 > Published in IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS, 2020.

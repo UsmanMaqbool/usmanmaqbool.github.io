@@ -8,9 +8,9 @@ sidebar:
   - title: "Loop-box"
     image: /assets/images/publication/loop-box-logo.png
     image_alt: "loop-box-multi-agent-slam"
-    text: "Tags: <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>mutliagent SLAM</span> <span style='border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;' rel='tag'>3D Mapping</span>" 
-  - title: My Other Research & Publication
-    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
+    text: "Keywords: <span class='keywords' rel='tag'>mutliagent SLAM</span> <span class='keywords' rel='tag'>3D Mapping</span>" 
+#  - title: My Other Research & Publication
+#    text: "[SLAM](../publication/#slam) <br> [Machine Learning](../publication/#machine-learning) <br> [Automonous Driving](../publication/#automonous-driving)"  
 toc: true
 last_modified_at: 2020-02-17T08:03:30-05:00
 ---
@@ -45,3 +45,4 @@ last_modified_at: 2020-02-17T08:03:30-05:00
 }
 ```
 {% endraw %}
+
