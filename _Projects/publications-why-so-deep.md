@@ -28,17 +28,6 @@ toc_sticky: true
 Abstract goes here.
 {: .notice--info}
 
-
-## Source Code
-
-Please follow our [:octocat: Github](https://github.com/usmanmaqbool/maqbool) page.
-<p align="center">
-  ⭐️ If you like this repository, give it a star on GitHub! ⭐️
-  <br>
-  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
-  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
-</p>
-
 ## Video 
 
 TODO
@@ -47,6 +36,19 @@ TODO
 <a class="page__taxonomy-item " href="[#bibtex](https://youtu.be/AatjVz5ysV8)">View on Youtube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AatjVz5ysV8 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 -->
+## Source Code
+
+Will be available soon 
+
+<!-- Please follow our [:octocat: Github](https://github.com/usmanmaqbool/maqbool) page.
+<p align="center">
+  ⭐️ If you like this repository, give it a star on GitHub! ⭐️
+  <br>
+  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
+  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
+</p>
+
+
 
 
 ## Results
@@ -122,3 +124,5 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
     </tbody>
 </table>
 
+
+-->
