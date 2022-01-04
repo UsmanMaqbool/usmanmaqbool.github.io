@@ -1,6 +1,6 @@
 ---
-title:  ":us: Jan 2022 &#124; Paper has been accepted in RA-L/ICRA 2022."
-excerpt: "Will be presented at ICRA, 2022 in Philadelphia, USA InshaALLAH."
+title:  ":us: Jan 2022 &#124; My work related to visual place recognition has been accepted in RA-L/ICRA 2022."
+excerpt: "I Will present at ICRA, 2022 in Philadelphia, USA InshaALLAH."
 search: true
 header:
   teaser: "/assets/images/maqbool/covers.jpg"
