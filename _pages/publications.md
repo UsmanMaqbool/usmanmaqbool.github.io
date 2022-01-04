@@ -10,18 +10,20 @@ toc_label: "Table of Contents"
 
 ---
 
+## 2022
 
-<!--
+
 * <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span> <span class='keywords' rel='tag'>Deep Learning</span><br>
-M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, IEEE Robotics and Automation Letters (RA-L), 2022. <a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='../why-so-deep#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a><br>
-<i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='../why-so-deep'><i class="fas fa-globe-asia"></i> Project Website</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a> 
+M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, IEEE Robotics and Automation Letters (RA-L), ICRA, 2022. <!-- <a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='../why-so-deep#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a>--><br> 
+<i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='../why-so-deep'><i class="fas fa-globe-asia"></i> Project Website</a> 
+<!-- <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a>  -->
 <br>
 
 <figure>
     <a href="/assets/images/maqbool/front-new.png"><img src="/assets/images/maqbool/front-new.png" style="height: 250px;display: block; margin-left: 17%;" alt="why-so-deep-bhutta"  ></a>
 </figure>
 
--->
+
 ## 2021
 * <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Road Inspection</span> <span class='keywords' rel='tag'>Automonous Driving</span><br>
 Wu, Rigen and Fan, Jiahe and Guo, Libo and Qiao, Lei and Bhutta, M. Usman Maqbool and Hosking, Brett and Vityazev, Sergey and Fan, Rui, **Scale-Adaptive Pothole Detection and Tracking from 3-D Road Point Clouds**, 2021 IEEE International Conference on Imaging Systems and Techniques (IST), 2021, pp. 1-5, doi: 10.1109/IST50367.2021.9651423. <a class='page__taxonomy-item ' href='https://ieeexplore.ieee.org/document/9651423'><i class='fas fa-file-pdf' aria-hidden='true'></i> PDF</a> <a class='page__taxonomy-item ' href='/assets/bibtex/ISTPotholeWu21.bib'><i class='fas fa-file-alt'></i> BibTeX</a><br>
