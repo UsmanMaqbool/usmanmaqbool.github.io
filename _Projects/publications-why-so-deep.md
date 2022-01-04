@@ -19,23 +19,20 @@ toc_icon: "folder-open"
 toc_sticky: true
 ---
 
-> Accepted for publication in the IEEE Robotics and Automation Letters (RA-L).
+> Accepted for publication in the RAL and ICRA IEEE Robotics and Automation Letters (RA-L).
 >
 > Authors: **M. Usman Maqbool Bhutta**, Yuxiang Sun, Darwin Lau, Ming Liu
 
 ## Abstract 
 
-Abstract goes here.
+Deep learning-based image retrieval techniques for the loop closure detection demonstrate satisfactory performance. However, it is still challenging to achieve high-level performance based on previously trained models in different geographical regions. This paper addresses the problem of their deployment with simultaneous localization and mapping (SLAM) systems in the new environment. The general baseline approach uses additional information, such as GPS, sequential keyframes tracking, and re-training the whole environment to enhance the recall rate. We propose a novel approach for improving image retrieval based on previously trained models. We present an intelligent method, \textit{MAQBOOL}, to amplify the power of pre-trained models for better image recall and its application to real-time multiagent SLAM systems. We achieve comparable image retrieval results at a low descriptor dimension (512-D), compared to the high descriptor dimension (4096-D) of state-of-the-art methods. We use spatial information to improve the recall rate in image retrieval on pre-trained models.
 {: .notice--info}
 
 ## Video 
 
-TODO
+<a class="page__taxonomy-item " href="https://youtu.be/Ewdo6u0u764">View on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-<!--
-<a class="page__taxonomy-item " href="[#bibtex](https://youtu.be/AatjVz5ysV8)">View on Youtube</a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AatjVz5ysV8 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
--->
 ## Source Code
 
 Will be available soon 
