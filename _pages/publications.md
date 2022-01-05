@@ -19,9 +19,9 @@ M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu, **Why-So-Deep: Towar
 <!-- <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a>  -->
 <br>
 
-<figure>
-    <a href="/assets/images/maqbool/front-new.png"><img src="/assets/images/maqbool/front-new.png" style="height: 250px;display: block; margin-left: 17%;" alt="why-so-deep-bhutta"  ></a>
-</figure>
+    <figure>
+        <a href="/assets/images/maqbool/front-new.png"><img src="/assets/images/maqbool/front-new.png" style="display: block;" alt="why-so-deep-bhutta"  ></a>
+    </figure>
 
 
 ## 2021
@@ -36,18 +36,18 @@ M Usman Maqbool Bhutta, Manohar Kuse, Rui Fan, Yanan Liu, Ming Liu, **Loop-box:
 <i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='../loop-box'><i class="fas fa-globe-asia"></i> Project Website</a> <a class='page__taxonomy-item ' href='https://www.youtube.com/watch?v=AatjVz5ysV8'><i class='fab fa-youtube'></i> Video</a> 
 <br>
 
-<figure>
-    <a href="/assets/images/publication/cover-loop-box.png"><img src="/assets/images/publication/cover-loop-box.png" style="height: 250px;display: block; margin-left: 17%;" alt="Loop-box-bhutta"  ></a>
-</figure>
+    <figure>
+        <a href="/assets/images/publication/cover-loop-box.png"><img src="/assets/images/publication/cover-loop-box.png" style="display: block;" alt="Loop-box-bhutta"  ></a>
+    </figure>
 
 * <span class='keywords' rel='tag'>Machine Learning</span> <span class='keywords' rel='tag'>Smart Phone Glass Inspection</span> <span class='keywords' rel='tag'>Automation</span><br>
 M Usman Maqbool Bhutta, Shoaib Aslam, Peng Yun, Jianhao JIAO, Ming Liu, **Smart-Inspect: Micro Scale Localization and Classification of Smart Phone Glass Defects for Industrial Automation**, in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020). <a class='page__taxonomy-item ' href='https://arxiv.org/abs/2010.00741'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='../smart-inspect#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a><br>
 <i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='../smart-inspect'><i class="fas fa-globe-asia"></i> Project Website</a> <a class='page__taxonomy-item ' href='https://www.youtube.com/watch?v=lYuSfzzmRS0'><i class='fab fa-youtube'></i> Video</a> 
 <br>
 
-<figure>
-    <a href="/assets/images/publication/cover-smart-inspect.png"><img src="/assets/images/publication/cover-smart-inspect.png" style="height: 250px;display: block; margin-left: 17%;" alt="Smart-Inspect-bhutta"  ></a>
-</figure>
+    <figure>
+        <a href="/assets/images/publication/cover-smart-inspect.png"><img src="/assets/images/publication/cover-smart-inspect.png" style="display: block;" alt="Smart-Inspect-bhutta"  ></a>
+    </figure>
 
 ## 2018
 
@@ -56,9 +56,9 @@ M Usman Maqbool Bhutta, Ming Liu, **PCR-Pro - 3D Sparse and Different Scale Poin
 <i class='far fa-bookmark'></i> :  <a class='page__taxonomy-item ' href='https://sites.google.com/view/pcr-pro'><i class="fas fa-globe-asia"></i> Project Website</a> <a class='page__taxonomy-item ' href='../usman-maqbool-bhutta-cyber-paper/'><i class='fab fa-youtube'></i> Video</a> 
 <br>
 
-<figure>
-    <a href="/assets/images/cyber18/cover.png"><img src="/assets/images/cyber18/cover.png" style="height: 250px;display: block; margin-left: 17%;" alt="PCR-pro-bhutta"  ></a>
-</figure>
+    <figure>
+        <a href="/assets/images/cyber18/cover.png"><img src="/assets/images/cyber18/cover.png" style="display: block;" alt="PCR-pro-bhutta"  ></a>
+    </figure>
 
 * <span class='keywords' rel='tag'>Automonous Driving</span> <span class='keywords' rel='tag'>Lane Detection</span><br> 
 Ma, Han, Yixin Ma, Jianhao Jiao, M. Usman Maqbool Bhutta, Mohammud Junaid Bocus, Lujia Wang, Ming Liu, and Rui Fan. **Multiple lane detection algorithm based on optimised dense disparity map estimation.** In 2018 IEEE International Conference on Imaging Systems and Techniques (IST), pp. 1-5. IEEE, 2018. <a class='page__taxonomy-item ' href='https://arxiv.org/abs/1808.09128v1'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='/assets/bibtex/bhutta18b.bib'><i class='fas fa-file-alt'></i> BibTeX</a><br>
