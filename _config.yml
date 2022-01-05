@@ -315,7 +315,7 @@ compress_html:
     envs: development
 
 collections:
-  Projects:
+  Research:
     output: true
     permalink: /:collection/:path/
   Tutorials:
@@ -348,10 +348,10 @@ defaults:
       read_time: false
       author_profile: false
       comments: false    
-  # _Projects
+  # _Research
   - scope:
       path: ""
-      type: Projects
+      type: Research
     values:
       layout: single
       author_profile: false
