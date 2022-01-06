@@ -31,7 +31,7 @@ Deep learning-based image retrieval techniques for the loop closure detection de
 ## Video 
 
 <a class="page__taxonomy-item " href="https://youtu.be/Ewdo6u0u764">View on Youtube</a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Source Code
 
