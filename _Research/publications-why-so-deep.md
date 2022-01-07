@@ -31,7 +31,7 @@ Deep learning-based image retrieval techniques for the loop closure detection de
 
 ## Source Code
 
- Please follow our [:octocat: Github](https://github.com/usmanmaqbool/maqbool) page.
+ Please follow our [:octocat: Github](https://github.com/usmanmaqbool/why-so-deep) page.
 <p align="center">
   ⭐️ If you like this repository, give it a star on GitHub! ⭐️
   <br>
@@ -41,7 +41,7 @@ Deep learning-based image retrieval techniques for the loop closure detection de
 
 
 
-
+<!--
 ## Results
 
 ### Results files for ploting
@@ -116,13 +116,6 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
 </table>
 
 
-## Video 
-
-<a class="page__taxonomy-item " href="https://youtu.be/Ewdo6u0u764">View on Youtube</a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<!--
 ## BibTeX
 <a class="page__taxonomy-item " href="/assets/bibtex/loop-box.bib">Save BibTeX</a>
 {% raw %}
@@ -139,3 +132,10 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
 {% endraw %}
 
 -->
+## Video 
+
+<a class="page__taxonomy-item " href="https://youtu.be/Ewdo6u0u764">View on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
