@@ -262,6 +262,7 @@ plugins:
   - jekyll-include-cache
   - jemoji
   - jekyll-scholar
+  - jekyll-redirect-from
 #  - jekyll-material-icon-tag
 scholar:
   style: ieee-with-url
