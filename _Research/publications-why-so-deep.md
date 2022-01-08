@@ -137,12 +137,12 @@ Open `config_wsd.m` and change `show_output = 1`.
 
 
 ## BibTeX
-<a class="page__taxonomy-item " href="/assets/bibtex/loop-box.bib">Save BibTeX</a>
+<a class="page__taxonomy-item " href="/assets/bibtex/why-so-deep-bhutta.bib">Save BibTeX</a>
 {% raw %}
 ```bib
 @article{loopboxBhutta,
-	title={{Loop-Box: Multiagent} Direct {SLAM} Triggered by Single Loop Closure for Large-Scale Mapping}, 
-	author={M. U. M. {Bhutta} and M. {Kuse} and R. {Fan} and Y. {Liu} and M. {Liu}},
+	author={Bhutta, M. Usman Maqbool and Sun, Yuxiang and Lau, Darwin and Liu, Ming},
+    title={Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition},
 	journal={IEEE Transactions on Cybernetics},
 	year={2020},
 	doi={10.1109/TCYB.2020.3027307},
