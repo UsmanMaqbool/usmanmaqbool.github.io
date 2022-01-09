@@ -12,7 +12,7 @@ sidebar:
   - title: ""
     text: "<i class='far fa-bookmark'></i> : <a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a> <a class='page__taxonomy-item ' href='#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a>"  
 usemathjax: true
-last_modified_at: 2022Jan-6T08:03:30-05:00
+last_modified_at: 2022Jan-9T08:03:30-05:00
 toc: true
 #toc_label: "Unique Title"
 toc_icon: "folder-open" 
@@ -41,27 +41,25 @@ Deep learning-based image retrieval techniques for the loop closure detection de
 
 
 
-<!--
-## Results
 
 ### Results files for ploting
 
-Our Maqbool results dat files are available for comparison. You can download and plot your TikZ (Latex), plot.ly etc.
+Our Maqbool results `dat` files are available for comparison in github repository. You can download and plot your TikZ (Latex), plot.ly etc.
 
 File name example is shown below:
 $$
 \overbrace{
-    \underbrace{vd16}_\text{real} \_
+    \underbrace{vd16}_\text{CNN} \_
     \underbrace{tokyoTM}_\text{pretrained on} \_to\_
     \underbrace{tokyo247}_\text{tested on}\_
     \underbrace{maqbool}_\text{method}\_
     \underbrace{DT\_100}_\text{distance tree size}\_
     \underbrace{512}_\text{feature dimension}.
-    \underbrace{dat}
+    dat
    }^\text{file name}
 $$
 
-
+<!--
 
 ### Thumbnails generating for top 5 results
 
