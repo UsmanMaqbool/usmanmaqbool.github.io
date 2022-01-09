@@ -23,7 +23,7 @@ I use `dat` file for each curve of a graph. Consider, you have 3 curves. You put
 4 73.333
 5 73.968
 ```
-#### Explantion
+#### Explanation
 
 Since most of the plots have some similar axis's information, so
 `tikz-graph-in-latex/tikz_styles.tex` file is used for controlling default values. For instance, X-Y ticks and X-Y labels defaults values can be assigned in this `tikz_styles.tex` file.
@@ -58,7 +58,7 @@ Open the file ` tikz-graph-in-latex/main.tex` and change color, mark, size and l
 ```
 
 
-#### Source Code
+### Source Code
 
 You can clone the example repository from our [:octocat: Github](https://github.com/UsmanMaqbool/tikz-graph-in-latex) page.
 <p align="center">
