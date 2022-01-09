@@ -1,5 +1,5 @@
 ---
-title: "🗒 Guide to add Tikz Plots in Latex"
+title: "💡 Guide to add Tikz Plots in Latex"
 permalink: /how-to-add-tikz-graphs-in-latex/
 toc: true
 usemathjax: true
