@@ -45,14 +45,14 @@ ylabel={Y-axis description},
 ##### Y-Axis Max and Min
 Sometimes, Y-axis doesn't fit the plot well. So we control y-axis for each plot in the `main.tex` file.
 
-Open the file ` tikz-graph-in-latex/main.tex` and change xtick and ytick like below
+Open the file `tikz-graph-in-latex/main.tex` and change xtick and ytick like below
 ```tex
 \pgfplotsset{ymax=82, ymin= 49}
 ```
 Similarly, you can also control x-axix min and max value.
 
 ##### Curve Settings
-Open the file ` tikz-graph-in-latex/main.tex` and change color, mark, size and line width for each curve accordingly.
+Open the file `tikz-graph-in-latex/main.tex` and change color, mark, size and line width for each curve accordingly.
 ```tex
 \addplot [color=blue, mark=diamond, mark size=3pt, line width=0.8pt]
 ```
