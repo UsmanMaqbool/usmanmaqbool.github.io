@@ -1,5 +1,5 @@
 ---
-title:  ":us: Jan 2022 &#124; My work related to visual place recognition has been accepted in RA-L/ICRA 2022."
+title:  "🇺🇸 Jan 2022 &#124; My work related to visual place recognition has been accepted in RA-L/ICRA 2022."
 excerpt: "I will present at ICRA, 2022 in Philadelphia, USA InshaALLAH."
 search: true
 header:
