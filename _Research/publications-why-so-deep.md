@@ -10,9 +10,9 @@ sidebar:
     image_alt: "loop-box-multi-agent-slam"
     text: "Keywords: <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span>" 
   - title: ""
-    text: "<i class='far fa-bookmark'></i> : <a class='page__taxonomy-item ' href='#'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a> <a class='page__taxonomy-item ' href='#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a>"  
+    text: "<i class='far fa-bookmark'></i> : <a class='page__taxonomy-item ' href='https://arxiv.org/abs/2201.03212'><i class='fas fa-file-pdf' aria-hidden='true'></i> arXiv</a> <a class='page__taxonomy-item ' href='#video'><i class='fab fa-youtube'></i> Video</a> <a class='page__taxonomy-item ' href='#bibtex'><i class='fas fa-file-alt'></i> BibTeX</a>"  
 usemathjax: true
-last_modified_at: 2022Jan-6T08:03:30-05:00
+last_modified_at: 2022Jan-11T08:03:30-05:00
 toc: true
 #toc_label: "Unique Title"
 toc_icon: "folder-open" 
@@ -116,26 +116,29 @@ Download Test datasets and trained models from [NetVLAD project website](https:/
 </table>
 
 
-## BibTeX
-<a class="page__taxonomy-item " href="/assets/bibtex/loop-box.bib">Save BibTeX</a>
-{% raw %}
-```bib
-@article{loopboxBhutta,
-	title={{Loop-Box: Multiagent} Direct {SLAM} Triggered by Single Loop Closure for Large-Scale Mapping}, 
-	author={M. U. M. {Bhutta} and M. {Kuse} and R. {Fan} and Y. {Liu} and M. {Liu}},
-	journal={IEEE Transactions on Cybernetics},
-	year={2020},
-	doi={10.1109/TCYB.2020.3027307},
-	pages={1-10}
-}
-```
-{% endraw %}
+
+
 
 -->
+
 ## Video 
 
 <a class="page__taxonomy-item " href="https://youtu.be/Ewdo6u0u764">View on Youtube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ewdo6u0u764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## BibTeX
+<a class="page__taxonomy-item " href="/assets/bibtex/why-so-deep-bhutta.bib">Save BibTeX</a>
+{% raw %}
+```bib
+@article{whysodeepBhutta22,
+	title={Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition}, 	
+	author={M. Usman Maqbool Bhutta and Yuxiang Sun and Darwin Lau and Ming Liu},	
+    year={2022},
+	eprint={2201.03212},
+	archivePrefix={arXiv},
+	primaryClass={cs.CV}
+}
+```
+{% endraw %}
 
 
