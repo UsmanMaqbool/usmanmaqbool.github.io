@@ -20,7 +20,7 @@ M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu, **Why-So-Deep: Towar
 <br>
 
     <figure>
-        <a href="/assets/images/maqbool/front-new.png"><img src="/assets/images/maqbool/front-new.png" style="display: block;" alt="Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition."  ></a>
+        <a href="/assets/images/maqbool/covers.jpg"><img src="/assets/images/maqbool/covers.jpg" style="display: block;" alt="Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition."  ></a>
     </figure>
 
 

@@ -41,27 +41,25 @@ Deep learning-based image retrieval techniques for the loop closure detection de
 
 
 
-<!--
-## Results
 
-### Results files for ploting
+### Results Files For The Comparison
 
-Our Maqbool results dat files are available for comparison. You can download and plot your TikZ (Latex), plot.ly etc.
+Our Maqbool results `dat` files are available for comparison in [:octocat: github repository](https://github.com/UsmanMaqbool/why-so-deep#results). You can download and plot your TikZ (Latex), plot.ly etc. Furthermore, if you need help in plotting the results using Tikz and latex, please follow this [💡 little tutorial](https://usmanmaqbool.github.io/how-to-add-tikz-graphs-in-latex/).
 
 File name example is shown below:
 $$
 \overbrace{
-    \underbrace{vd16}_\text{real} \_
+    \underbrace{vd16}_\text{CNN} \_
     \underbrace{tokyoTM}_\text{pretrained on} \_to\_
     \underbrace{tokyo247}_\text{tested on}\_
     \underbrace{maqbool}_\text{method}\_
     \underbrace{DT\_100}_\text{distance tree size}\_
     \underbrace{512}_\text{feature dimension}.
-    \underbrace{dat}
+    dat
    }^\text{file name}
 $$
 
-
+<!--
 
 ### Thumbnails generating for top 5 results
 
