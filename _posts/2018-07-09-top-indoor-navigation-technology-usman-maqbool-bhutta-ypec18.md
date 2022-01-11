@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: July 2018 &#124; Introduced Lisee Technology at IET-YPEC 2018 in Hong Kong."
+title:  "🇭🇰 July 2018 &#124; Introduced Lisee Technology at IET-YPEC 2018 in Hong Kong."
 excerpt: "Lisee Technology is a low cost indoor navigation system with localization precision upto 10cm."
 search: true
 tags: 

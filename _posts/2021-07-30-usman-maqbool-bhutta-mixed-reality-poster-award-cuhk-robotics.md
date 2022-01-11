@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: July 2021 &#124; Received Two Awards at CUHK Teaching and Learning Innovation Expo."
+title:  "🇭🇰 July 2021 &#124; Received Two Awards at CUHK Teaching and Learning Innovation Expo."
 excerpt: "Our two poster presentations on Mixed-Reality for robotics and online robotics platform received awards by the judges panel."
 search: true
 header:

@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: Nov 2021 &#124; PhD Graduation Day, Class of 2021, HKUST 29th Congregation."
+title:  "🇭🇰 Nov 2021 &#124; PhD Graduation Day, Class of 2021, HKUST 29th Congregation."
 excerpt: "The best feeling in the world is knowing my family and friends are smiling because of me."
 search: true
 header:

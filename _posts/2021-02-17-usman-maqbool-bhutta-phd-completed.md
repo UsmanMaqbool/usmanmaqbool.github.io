@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: Feb 2021 &#124; Successfully defended my PhD thesis."
+title:  "🇭🇰 Feb 2021 &#124; Successfully defended my PhD thesis."
 excerpt: "I'm very grateful to my supervisor Prof. Ming Liu and PEEF Pakistan for their PhD scholarship."
 search: true
 header:

@@ -1,5 +1,5 @@
 ---
-title:  ":switzerland: Dec 2019 &#124; Autonomous System Lab (ASL) - Open Lab Day 2019"
+title:  "🇨🇭 Dec 2019 &#124; Autonomous System Lab (ASL) - Open Lab Day 2019"
 excerpt: "More than 500 people visited ASL, RSL Lab at ETH Zurich to observe Robotics open lab day 2019."
 search: true
 header:

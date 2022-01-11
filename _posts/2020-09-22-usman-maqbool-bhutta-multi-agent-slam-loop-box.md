@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: Sep 2020 &#124; Paper has been accepted in IEEE Transactions on Cybernetics (IF-11+)."
+title:  "🇭🇰 Sep 2020 &#124; Paper has been accepted in IEEE Transactions on Cybernetics (IF-11+)."
 excerpt: "Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large Scale Mapping"
 search: true
 header:

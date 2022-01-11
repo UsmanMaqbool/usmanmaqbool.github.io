@@ -1,5 +1,5 @@
 ---
-title:  ":cn: June 2018 &#124; Attended CCF-GAIR 2018 in Shenzhen, China"
+title:  "🇨🇳 June 2018 &#124; Attended CCF-GAIR 2018 in Shenzhen, China"
 excerpt: "Topics are covered related to computer vision, intelligent driving, learning, mems lidar by Robosense lidar company review, human-robot interaction - Pepper robot and bionic robots."
 search: true
 tags: 

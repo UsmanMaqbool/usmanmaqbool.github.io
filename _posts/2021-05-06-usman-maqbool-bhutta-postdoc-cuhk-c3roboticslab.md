@@ -1,5 +1,5 @@
 ---
-title:  ":hong_kong: May 2021 &#124; Joined CUHK C3 Robotics Lab as Postdoctoral Fellow."
+title:  "🇭🇰 May 2021 &#124; Joined CUHK C3 Robotics Lab as Postdoctoral Fellow."
 excerpt: "I'm very pleased to start work with Prof. Darwin Lau's group at The Chinese University of Hong Kong (#39 in QS Global World Rankings 2022), Hong Kong."
 search: true
 header:
