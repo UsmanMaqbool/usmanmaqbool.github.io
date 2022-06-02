@@ -11,7 +11,7 @@ toc_label: "Table of Contents"
 ---
 
 ## 2022
-* <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Robotive Navigation</span> <span class='keywords' rel='tag'>Obstacle Navigation</span><br>
+* <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Robot Navigation</span> <span class='keywords' rel='tag'>Obstacle Avoidance</span><br>
 Muhammad Husnain Haider and Hub Ali and Abdullah Aman Khan and Hao Zheng and M. Usman Maqbool Bhutta and Shaban Usman and Pengpeng Zhi and Zhonglai Wang, **Autonomous Mobile Robot Navigation using Adaptive Neuro Fuzzy Inference System**, 2022 International Conference On Innovations And Development Of Information Technologies And Robotics (IDITR), 2022. <!-- <a class='page__taxonomy-item ' href='https://ieeexplore.ieee.org/document/9651423'><i class='fas fa-file-pdf' aria-hidden='true'></i> PDF</a> <a class='page__taxonomy-item ' href='/assets/bibtex/ISTPotholeWu21.bib'><i class="fas fa-download"></i> BibTeX</a> --><br>
 
 * <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span> <span class='keywords' rel='tag'>Deep Learning</span><br>
