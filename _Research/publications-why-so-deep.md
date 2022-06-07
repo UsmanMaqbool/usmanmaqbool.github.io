@@ -3,7 +3,7 @@ title: "Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place
 permalink: /why-so-deep
 description: M. Usman Maqbool Bhutta et al., IEEE Robotics and Automation Letters (RA-L), 2022.
 header:
-  teaser: "/assets/images/maqbool/logo.png"
+  teaser: "/assets/images/publication/cover-why-so-deep-logo.jpg"
 sidebar:
   - title: "Why-So-Deep (MAQBOOL)"
     image: /assets/images/publication/cover-why-so-deep-logo.jpg
