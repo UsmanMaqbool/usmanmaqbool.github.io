@@ -354,9 +354,11 @@ defaults:
       path: ""
       type: Research
     values:
-      layout: single
+      layout: single-research
       author_profile: false
       share: true
+      related: true
+      related_label: "You May Also Enjoy My Other Publications" 
   # _tutorials
   - scope:
       path: ""

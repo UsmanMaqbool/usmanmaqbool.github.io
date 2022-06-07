@@ -19,7 +19,7 @@ toc_icon: "folder-open"
 toc_sticky: true
 ---
 
-> Accepted for publication in the RAL and ICRA IEEE Robotics and Automation Letters (RA-L).
+> RAL and ICRA IEEE Robotics and Automation Letters (RA-L) 2022.
 >
 > Authors: **M. Usman Maqbool Bhutta**, Yuxiang Sun, Darwin Lau, Ming Liu
 
