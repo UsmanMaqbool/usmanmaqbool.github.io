@@ -6,7 +6,7 @@ header:
   teaser: "/assets/images/maqbool/logo.png"
 sidebar:
   - title: "Why-So-Deep (MAQBOOL)"
-    image: /assets/images/maqbool/logo.png
+    image: /assets/images/publication/cover-why-so-deep-logo.jpg
     image_alt: "loop-box-multi-agent-slam"
     text: "Keywords: <span class='keywords' rel='tag'>Place Recognition</span> <span class='keywords' rel='tag'>Image Retrieval</span>" 
   - title: ""
@@ -33,11 +33,14 @@ toc_sticky: true
 
  Please follow our [:octocat: Github](https://github.com/usmanmaqbool/why-so-deep) page.
 <p align="center">
+   <img src="/assets/images/maqbool/maqbool.png" alt="why-so-deep" style="height: 124px;"> <br>
+   MAQBOOL: Multiple AcuQitation of perceptiBle regiOns for priOr Learning <br>
   ⭐️ If you like this repository, give it a star on GitHub! ⭐️
   <br>
   <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
 </p>
+
 
 
 ## Video 
