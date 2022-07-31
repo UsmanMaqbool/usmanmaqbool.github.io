@@ -11,7 +11,7 @@ toc_label: "Table of Contents"
 ---
 
 ## 2022
-* <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Robot Navigation</span> <span class='keywords' rel='tag'>Obstacle Avoidance</span><br>
+* <span class='blink_me' rel='tag'>New</span> <span class='keywords' rel='tag'>Road Inspection</span> <span class='keywords' rel='tag'>Deep Learning</span><br>
 Zhen Feng, Yanning Guo, Qing Liang, M. Usman Maqbool Bhutta, Hengli Wang, Ming Liu, and
 Yuxiang Sun, **MAFNet: Segmentation of Road Potholes with Multi-modal Attention Fusion Network for
 Autonomous Vehicles**, 2022 IEEE Transactions on Instrumentation & Measurement.(IF: 5.3+) <!-- <a class='page__taxonomy-item ' href='https://ieeexplore.ieee.org/document/9796495'><i class='fas fa-file-pdf' aria-hidden='true'></i> PDF</a> <a class='page__taxonomy-item ' href='/assets/bibtex/fuzzyconf.bib'><i class="fas fa-download"></i> BibTeX</a>--><br>
