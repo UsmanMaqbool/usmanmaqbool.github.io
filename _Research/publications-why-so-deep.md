@@ -37,7 +37,7 @@ toc_sticky: true
    MAQBOOL: Multiple AcuQitation of perceptiBle regiOns for priOr Learning <br>
   ⭐️ If you like this repository, give it a star on GitHub! ⭐️
   <br>
-  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/umbhutta"><img src="https://img.shields.io/twitter/follow/umbhutta.svg?style=social" alt="Twitter Follow" /></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
 </p>
 
