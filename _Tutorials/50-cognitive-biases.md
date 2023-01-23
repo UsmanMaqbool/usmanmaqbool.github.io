@@ -7,7 +7,7 @@ Credits: [TitleMax](https://www.titlemax.com/discovery-center/lifestyle/50-cogni
 
 <p align="left">
   <br>
-  <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/umbhutta"><img src="https://img.shields.io/twitter/follow/umbhutta.svg?style=social" alt="Twitter Follow" /></a>
 </p>
 
 ## What Is Cognitive Bias?
