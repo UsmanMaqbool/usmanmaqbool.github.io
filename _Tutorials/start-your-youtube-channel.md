@@ -1,6 +1,6 @@
 ---
-title: "🚀 Top Essentials for youtube Channel"
-permalink: /top-essentials-for-youtube-channel/
+title: "🚀 Top Equipment For Starting a YouTube Channel in 2023"
+permalink: /equipment-for-starting-a-youtube-channel/
 toc: true
 usemathjax: true
 ---
