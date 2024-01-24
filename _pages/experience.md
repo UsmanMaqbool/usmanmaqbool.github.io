@@ -12,7 +12,7 @@ toc_sticky: true
 <img src="/assets/images/cuhk/c3.png" style="height: 70px;float: right;" alt="CUHK Logo"  ><img src="/assets/images/cuhk/logo.png" href="https://c3robolab.mae.cuhk.edu.hk/" style="height: 70px;float: right;" alt="CUHK Logo"  >
 
 
-📅: May 21 – Present <br> 
+📅: May 21 – Jun 23 <br> 
 🌍: **C3 Robotics Lab**, The Chinese University of Hong Kong (CUHK), Hong Kong. <br>
 (#39 in QS Global World Rankings 2022.) <br>
 💼: I mainly work for several ongoing projects such as AR/VR, Multi-agent robotics for agriculture, Painting / pre-surface inspection robotics for constructions here.

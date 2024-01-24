@@ -7,7 +7,7 @@ header:
 tags: 
   - Influencers Meetup
   - Work
-last_modified_at: 2023-06-01T08:03:30-05:00
+last_modified_at: 2023-07-01T08:03:30-05:00
 ---
 As I bid adieu to the incredible C3 Robotics Lab at CUHK, I'm filled with nostalgia and gratitude. Two remarkable years have come to an end, leaving me with unforgettable memories and friendships. I'm so lucky to have been part of this talented team! 💡❤️ Here's a group photo to treasure the moments we shared. 📸 
 
