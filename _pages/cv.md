@@ -1,22 +1,92 @@
 ---
 permalink: /cv/
-last_modified_at: 2021-11-24T12:04:24-04:00
+last_modified_at: 2024-01-08T12:04:24-04:00
 toc: true
+title: M. Usman Maqbool Bhutta
+---
+**Location:** [City, Country]  
+**Phone:** [+1234567890]  
+**Email:** [youremail@example.com]  
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+**GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+---
+
+## Summary
+
+Experienced [Your Job Title] with expertise in [Skills/Industry]. Proven track record in [Achievements/Projects]. Strong [Specific Skill/Attribute] and [Another Skill/Attribute].
 
 ---
 
-#### M. Usman Maqbool Bhutta
+## Education
 
-Hi :smile:.
+### [Degree] in [Field of Study]
+**University Name** - *Graduation Year*
 
+- Relevant coursework: 
+  - Course 1
+  - Course 2
+  - Course 3
+
+---
+
+## Work Experience
+
+### [Job Title]
+**Company Name** - *Start Date - End Date*
+
+- Responsibilities:
+  - Task 1
+  - Task 2
+  - Task 3
+
+### [Job Title]
+**Company Name** - *Start Date - End Date*
+
+- Responsibilities:
+  - Task 1
+  - Task 2
+  - Task 3
+
+---
+
+## Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+---
+
+## Certifications
+
+- Certification 1
+- Certification 2
+
+---
+
+## Projects
+
+### [Project Title]
+**Description:** Brief description of the project.
+
+### [Project Title]
+**Description:** Brief description of the project.
+
+---
+
+## Languages
+
+- Language 1: Proficient
+- Language 2: Intermediate
 It will be updated soon. Meanwhile you can [**Download**](/assets/cv.pdf) the pdf of my CV.
 
 -------------
 
-##### Education
+## Education
 
 
-##### Experience
+## Experience
 
 <!--
 Postdoctoral Research Fellow | 📅: May 21 – Present
@@ -125,8 +195,8 @@ Worked as Project Supervisor for Bachelors students.
 💼: Teaching ‘PHP/MySQL Web Applications Development’ (a short course)
 
 -->
-##### Research
-
+## Research
+### HELLO
 ##### Awards
 
 ##### Talks
