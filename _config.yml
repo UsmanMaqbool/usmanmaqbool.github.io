@@ -99,7 +99,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "google-v4", "custom"
+  provider               : google-v4 # false (default), "google", "google-universal", "google-gtag", "google-v4", "custom"
   google:
     tracking_id          : "G-3QWDQJNW4X" # Replace this with your ID, or delete
     anonymize_ip         : # true, false (default)
