@@ -15,5 +15,5 @@ I will be working on several ongoing projects, such as long-term visual place re
 
 <figure>
     <a href="#"><img src="/assets/images/coviss/mine.jpg"></a>
-    <figcaption>CUHK Shaw Building</figcaption>
+    <figcaption>Robotics and AI Lab, ABE, UF</figcaption>
 </figure>
