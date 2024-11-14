@@ -7,6 +7,17 @@ toc: true
 toc_sticky: true
 ---
 
+### Postdoctoral Associate 
+<span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
+<img src="/assets/images/uf/coviss.png" style="height: 70px;float: right;" alt="coviss Logo" ><img src="/assets/images/uf/uf.png" href="#" style="height: 70px;float: right;" alt="uf Logo"  >
+
+
+📅: Aug 23 – Present <br> 
+ 🌍: **Computer Vision and Sensing Systems (COVISS) Lab**, University of Florida, United States. <br>
+ <br>
+💼: In my research, I have worked on various advanced projects, including long-term visual place recognition, where I developed a graph-based image feature representation to adapt to dynamic regions and enhance place recognition through semantic information. For calibration-free multi-view detection and association, I implemented attention networks to optimize multi-view object detection without calibration, focusing on occlusion to improve detection accuracy (MODA) and precision (MODP). Additionally, I am working on an end-to-end detection, segmentation, and tracking system aimed at surpassing state-of-the-art performance for the MOTS challenge. I also co-supervised the ABE Robotics team in the ASABE Robotics Student Design Competition 2024 in Anaheim, California. Throughout these projects, I managed documentation and code versioning, with all models trained on the UF HiPerGator system.
+
+
 ### Postdoc Fellow 
 <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: midnightblue;" rel="tag">Academic</span> <span style="border-radius: 5px; padding: 1px 7px; background-color:aliceblue; color: darkcyan;" rel="tag">Research</span>
 <img src="/assets/images/cuhk/c3.png" style="height: 70px;float: right;" alt="CUHK Logo"  ><img src="/assets/images/cuhk/logo.png" href="https://c3robolab.mae.cuhk.edu.hk/" style="height: 70px;float: right;" alt="CUHK Logo"  >
