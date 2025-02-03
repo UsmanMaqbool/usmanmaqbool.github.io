@@ -7,7 +7,7 @@ header:
 tags: 
   - Influencers Meetup
   - Work
-last_modified_at: 2024-02-14T08:03:30-05:00
+last_modified_at: 2025-02-14T08:03:30-05:00
 ---
 Reflecting on my transformative journey with the Computer Vision and Sensing Systems (COVISS) Lab at the University of Florida, I am overwhelmed with profound appreciation 🙏. My two-year tenure has been an extraordinary chapter of professional growth 📈, marked by incredible camaraderie and groundbreaking research 🚀. 
 
