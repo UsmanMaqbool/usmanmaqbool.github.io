@@ -33,3 +33,4 @@ Farewell, COVISS Lab - you've been an incredible journey! 👋🎓
 
 Additionally, I co-supervised the ABE Robotics team as they prepared for the ASABE Robotics Student Design Competition, 2024, in Anaheim, California. Throughout these projects, I managed documentation and code versioning, with all projects being trained on high-performance computing infrastructure.
 
+
