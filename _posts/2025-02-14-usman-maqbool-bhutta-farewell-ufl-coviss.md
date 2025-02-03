@@ -19,7 +19,7 @@ Farewell, COVISS Lab - you've been an incredible journey! 👋🎓
 
 <figure>
     <a href="#"><img src="/assets/images/uf/250130-lab-coviss-farewell.jpg"></a>
-    <figcaption> Moses Chilenje, Nesrine Ben Hassine, Zahra Khademi, Me, Prof. Henry Medeiros, Amir Etefaghi Daryani</figcaption>
+    <figcaption>(L2R): Moses Chilenje, Nesrine Ben Hassine, Zahra Khademi, Me, Prof. Henry Medeiros, Amir Etefaghi Daryani</figcaption>
 </figure>
 
 
