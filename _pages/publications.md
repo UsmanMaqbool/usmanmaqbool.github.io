@@ -9,6 +9,14 @@ toc_icon: "folder-open"
 toc_label: "Table of Contents"
 
 ---
+## 2025
+* <span class='keywords' rel='tag' style="background-color: ;color: blue;font-style: normal;font-weight: bold;background-color: aliceblue;" >Conference Proceeding </span> <br> Amir Etefaghi Daryani, M. Usman Maqbool Bhutta, Byron Hernandez, Henry Medeiros, **CaMuViD: Calibration-Free Multi-View Detection**, 2025 Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <span class='keywords' rel='tag'>Tracking</span> <span class='keywords' rel='tag'>Detection</span><br><i class="fas fa-link"></i> : <a class='page__taxonomy-item ' href='https://amiretefaghi.github.io/Camuvid.html'><i class="fas fa-globe-asia"></i> Project Website</a> <!-- <a class='page__taxonomy-item ' href='https://ieeexplore.ieee.org/document/9796495'><i class='fas fa-file-pdf' aria-hidden='true'></i> PDF</a> --> <a class='page__taxonomy-item ' href='/assets/bibtex/camuvid.bib'><i class="fas fa-download"></i> BibTeX</a><br>
+
+    <figure>
+        <a href="/assets/images/papers/25-cvpr-camuvid/camuvid.png"><img src="/assets/images/papers/25-cvpr-camuvid/camuvid.png" style="display: block;" alt="CaMuViD: Calibration-Free Multi-View Detection."  ></a>
+    </figure>
+
+
 ## 2022
 * <span class='keywords' rel='tag' style="background-color: ;color: blue;font-style: normal;font-weight: bold;background-color: aliceblue;" >Journal (IF: 8.8+) </span><span class='blink_me' rel='tag'>New</span><br> Muhammad Husnain Haider, Zhonglai Wanga, Abdullah Aman Khan, Hub Ali, Hao Zheng, Shaban Usman, Rajesh Kumar, M. Usman Maqbool Bhutta, Pengpeng Zhi, **Robust mobile robot navigation in cluttered environments based on hybrid adaptive neuro-fuzzy inference and sensor fusion**, 2022 Journal of King Saud University-Computer and Information Sciences. <span class='keywords' rel='tag'>Robot Navigation</span> <span class='keywords' rel='tag'>Obstacle Avoidance</span><br><i class="fas fa-link"></i> : <a class='page__taxonomy-item ' href='https://www.sciencedirect.com/science/article/pii/S1319157822003135'><i class='fas fa-file-pdf' aria-hidden='true'></i> PDF</a> <a class='page__taxonomy-item ' href='/assets/bibtex/haider-robot-nav.bib'><i class="fas fa-download"></i> BibTeX</a><!--<span class='keywords' rel='tag'>Accepted for Publication</span>--><br>
 

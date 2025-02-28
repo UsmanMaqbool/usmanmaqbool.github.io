@@ -2,7 +2,5 @@ leo-README.md
 _site
 .sass-cache
 .jekyll-metadata
-Gemfile
-Gemfile.lock
 minimal-mistakes-jekyll.gemspec
 .jekyll-cache
