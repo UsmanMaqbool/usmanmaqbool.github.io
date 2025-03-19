@@ -1,5 +1,5 @@
 ---
-title:  "🇺🇸 Feb 2025 &#124; Fond Farewell to Computer Vision and Sensing Systems (COVISS) Lab at UF! 👋"
+title:  "🇺🇸 Jan 2025 &#124; Fond Farewell to Computer Vision and Sensing Systems (COVISS) Lab at UF! 👋"
 excerpt: "A year and a half has unfolded, gifting me with profound memories and lasting friendships that have deeply enriched my life."
 search: true
 header:

@@ -13,8 +13,6 @@ I am thrilled to announce that I have joined the University of Florida's Fruit P
 
 My research will focus on projects such as visual place recognition, multi-object tracking, and fruit segmentation for agricultural robotics. By leveraging computer vision and deep learning, we aim to identify and count blueberries, providing valuable yield data. This technology reduces the need for manual counting and helps breeders compare genotypes more efficiently, ultimately improving breeding decisions for Florida farmers.
 
-Starting with over 100,000 manually collected images, our software now accurately analyzes berry size and count. The rover captures data autonomously, aiding in faster and more precise selections.
-
 Automation and machine learning are enhancing the efficiency and scalability of developing high-yielding blueberry cultivars.
 
 <figure>
