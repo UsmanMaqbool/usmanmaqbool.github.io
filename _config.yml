@@ -110,9 +110,9 @@ author:
   name             : "M. Usman Maqbool Bhutta, PhD"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   logo             : "/assets/images/logo.jpeg"
-  bio              : "<b> Roboticist </b>&#124;<b> Entrepreneur </b><br style='margin-bottom: 10px;'> <b>PhD</b> in Robotics and AI (HKUST,HK) <br style='margin-bottom: 10px;'> <b> Worked: </b> 🇺🇸 🇨🇭 🇭🇰 🇵🇰    <br style='margin-bottom: 10px;'> <b> Email: </b> usmanmaqbool(AT)outlook(DOT)com  <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> Visual Place Recognition, Multi-Agent SLAM, Collaborative 3D Mapping, Autonomous Robotics, AR/VR, Startups.<!-- <br style='margin-bottom: 10px;'>  <b>PhD</b> in Robotics and AI (HKUST,🇭🇰), <br> <b>MPhil</b> in Image Processing and Communication (QAU,🇵🇰), <br><b>M.Sc.</b> in Electronics (QAU,🇵🇰), <br><b>B.Sc.</b> in Mathematics and Physics (BZU,🇵🇰).-->"
+  bio              : "<b> Roboticist </b>&#124;<b> Entrepreneur </b><br style='margin-bottom: 10px;'> <b>PhD</b> in Robotics and AI (HKUST,HK) <br style='margin-bottom: 10px;'> <b> Worked: </b> 🇺🇸 🇨🇭 🇭🇰 🇵🇰    <br style='margin-bottom: 10px;'> <b> Email: </b> m.maqboolbhutta [AT] ufl.edu <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> Visual Place Recognition, Multi-Agent SLAM, Collaborative 3D Mapping, Autonomous Robotics, AR/VR, Startups.<!-- <br style='margin-bottom: 10px;'>  <b>PhD</b> in Robotics and AI (HKUST,🇭🇰), <br> <b>MPhil</b> in Image Processing and Communication (QAU,🇵🇰), <br><b>M.Sc.</b> in Electronics (QAU,🇵🇰), <br><b>B.Sc.</b> in Mathematics and Physics (BZU,🇵🇰).-->"
   location         : "UF, Gainesville, USA"
-  email            : "usmanmaqbool(AT)outlook(DOT)com"
+  # email            : "m.maqboolbhutta [AT] ufl.edu"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -146,7 +146,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -162,7 +162,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
