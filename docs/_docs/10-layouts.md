@@ -609,7 +609,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/mmistakes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

@@ -117,7 +117,7 @@
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+            <i class="fa-brands fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
           </a>
         </li>
       {% endif %}
@@ -182,13 +182,13 @@
         {% if author.youtube contains "://" %}
           <li>
             <a href="{{ author.youtube }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-              <i class="fab fa-fw fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span>
+              <i class="fa-brands fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span>
             </a>
           </li>
         {% elsif author.youtube %}
           <li>
             <a href="https://www.youtube.com/user/{{ author.youtube }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-              <i class="fab fa-fw fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span>
+              <i class="fa-brands fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span>
             </a>
           </li>
         {% endif %}
