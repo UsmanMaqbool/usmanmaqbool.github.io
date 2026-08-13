@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   logo             : "/assets/images/logo.jpeg"
   bio              : "<b> Roboticist </b>&#124;<b> Entrepreneur </b><br style='margin-bottom: 10px;'> <b>PhD</b> in Robotics and AI (HKUST,HK) <br style='margin-bottom: 10px;'> <b> Worked: </b> 🇺🇸 🇨🇭 🇭🇰 🇵🇰    <br style='margin-bottom: 10px;'> <b> Email: </b> m.maqboolbhutta [AT] ufl.edu <br style='margin-bottom: 10px;'> <b> I'm interested in: </b> Visual Place Recognition, Multi-Agent SLAM, Collaborative 3D Mapping, Autonomous Robotics, AR/VR, Startups.<!-- <br style='margin-bottom: 10px;'>  <b>PhD</b> in Robotics and AI (HKUST,🇭🇰), <br> <b>MPhil</b> in Image Processing and Communication (QAU,🇵🇰), <br><b>M.Sc.</b> in Electronics (QAU,🇵🇰), <br><b>B.Sc.</b> in Mathematics and Physics (BZU,🇵🇰).-->"
-  location         : "UF, Gainesville, USA"
+  location         : "University of Florida, USA"
   # email            : "m.maqboolbhutta [AT] ufl.edu"
   uri              : # "https://sites.google.com/site/musmanmbhutta/"
   home             : # null (default), "absolute or relative url to link to author home"
